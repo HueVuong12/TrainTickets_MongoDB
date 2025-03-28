@@ -1214,6 +1214,41 @@
   ],
   "khachHang": [
     {
+      "maKH": "KH0001",
+      "tenKH": "Nguyễn Văn A",
+      "email": "abc@gmail.com",
+      "sdt": "0912345678",
+      "cccd": "049204013502"
+    },
+    {
+      "maKH": "KH0002",
+      "tenKH": "Trần Thị B",
+      "email": "def@gmail.com",
+      "sdt": "0912345679",
+      "cccd": "049204013503"
+    },
+    {
+      "maKH": "KH0003",
+      "tenKH": "Phạm Văn C",
+      "email": "ghi@gmail.com",
+      "sdt": "0912345680",
+      "cccd": "049204013504"
+    },
+    {
+      "maKH": "KH0004",
+      "tenKH": "Nguyễn Thị D",
+      "email": "jkl@gmail.com",
+      "sdt": "0912345681",
+      "cccd": "049204013505"
+    },
+    {
+      "maKH": "KH0005",
+      "tenKH": "Lê Văn E",
+      "email": "mno@gmail.com",
+      "sdt": "0912345682",
+      "cccd": "049204013506"
+    },
+    {
       "maKH": "KH0006",
       "tenKH": "Hoàng Văn F",
       "email": "hoangf@gmail.com",
