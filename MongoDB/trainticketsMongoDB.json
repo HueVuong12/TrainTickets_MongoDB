@@ -1,0 +1,1287 @@
+{
+  "ga": [
+    {
+      "maGa": "GA001",
+      "tenGa": "Ga Hà Nội",
+      "diaChi": "Hà Nội",
+      "chiSoKm": 0,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA002",
+      "tenGa": "Ga Giáp Bát",
+      "diaChi": "Hà Nội",
+      "chiSoKm": 6,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA003",
+      "tenGa": "Ga Văn Điển",
+      "diaChi": "Hà Nội",
+      "chiSoKm": 10,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA004",
+      "tenGa": "Ga Thường Tín",
+      "diaChi": "Hà Nội",
+      "chiSoKm": 19,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA005",
+      "tenGa": "Ga Chợ Tía",
+      "diaChi": "Hà Nội",
+      "chiSoKm": 27,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA006",
+      "tenGa": "Ga Phú Xuyên",
+      "diaChi": "Hà Nội",
+      "chiSoKm": 33,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA007",
+      "tenGa": "Ga Đồng Văn",
+      "diaChi": "Hà Nam",
+      "chiSoKm": 49,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA008",
+      "tenGa": "Ga Phủ Lý",
+      "diaChi": "Hà Nam",
+      "chiSoKm": 58,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA009",
+      "tenGa": "Ga Bình Lục",
+      "diaChi": "Hà Nam",
+      "chiSoKm": 76,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA010",
+      "tenGa": "Ga Cầu Họ",
+      "diaChi": "Hà Nam",
+      "chiSoKm": 80,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA011",
+      "tenGa": "Ga Đặng Xá",
+      "diaChi": "Nam Định",
+      "chiSoKm": 85,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA012",
+      "tenGa": "Ga Nam Định",
+      "diaChi": "Nam Định",
+      "chiSoKm": 87,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA013",
+      "tenGa": "Ga Trình Xuyên",
+      "diaChi": "Nam Định",
+      "chiSoKm": 94,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA014",
+      "tenGa": "Ga Núi Gôi",
+      "diaChi": "Nam Định",
+      "chiSoKm": 100,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA015",
+      "tenGa": "Ga Cát Đằng",
+      "diaChi": "Nam Định",
+      "chiSoKm": 105,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA016",
+      "tenGa": "Ga Ninh Bình",
+      "diaChi": "Ninh Bình",
+      "chiSoKm": 115,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA017",
+      "tenGa": "Ga Cầu Yên",
+      "diaChi": "Ninh Bình",
+      "chiSoKm": 123,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA018",
+      "tenGa": "Ga Ghềnh",
+      "diaChi": "Ninh Bình",
+      "chiSoKm": 130,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA019",
+      "tenGa": "Ga Đồng Giao",
+      "diaChi": "Ninh Bình",
+      "chiSoKm": 136,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA020",
+      "tenGa": "Ga Bỉm Sơn",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 149,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA021",
+      "tenGa": "Ga Đò Lèn",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 159,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA022",
+      "tenGa": "Ga Nghĩa Trang",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 167,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA023",
+      "tenGa": "Ga Thanh Hóa",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 175,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA024",
+      "tenGa": "Ga Yên Thái",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 187,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA025",
+      "tenGa": "Ga Minh Khôi",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 193,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA026",
+      "tenGa": "Ga Thị Long",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 199,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA027",
+      "tenGa": "Ga Văn Trai",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 207,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA028",
+      "tenGa": "Ga Khoa Trường",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 215,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA029",
+      "tenGa": "Ga Trường Lâm",
+      "diaChi": "Thanh Hóa",
+      "chiSoKm": 222,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA030",
+      "tenGa": "Ga Hoàng Mai",
+      "diaChi": "Nghệ An",
+      "chiSoKm": 232,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA031",
+      "tenGa": "Ga Yên Lý",
+      "diaChi": "Nghệ An",
+      "chiSoKm": 246,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA032",
+      "tenGa": "Ga Chợ Sy",
+      "diaChi": "Nghệ An",
+      "chiSoKm": 256,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA033",
+      "tenGa": "Ga Mỹ Lý",
+      "diaChi": "Nghệ An",
+      "chiSoKm": 266,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA034",
+      "tenGa": "Ga Quán Hành",
+      "diaChi": "Nghệ An",
+      "chiSoKm": 296,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA035",
+      "tenGa": "Ga Vinh",
+      "diaChi": "Nghệ An",
+      "chiSoKm": 319,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA036",
+      "tenGa": "Ga Yên Xuân",
+      "diaChi": "Nghệ An",
+      "chiSoKm": 326,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA037",
+      "tenGa": "Ga Yên Trung",
+      "diaChi": "Nghệ An",
+      "chiSoKm": 334,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA038",
+      "tenGa": "Ga Đức Lạc",
+      "diaChi": "Hà Tĩnh",
+      "chiSoKm": 346,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA039",
+      "tenGa": "Ga Yên Duệ",
+      "diaChi": "Hà Tĩnh",
+      "chiSoKm": 353,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA040",
+      "tenGa": "Ga Hòa Duyệt",
+      "diaChi": "Hà Tĩnh",
+      "chiSoKm": 365,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA041",
+      "tenGa": "Ga Thanh Luyện",
+      "diaChi": "Hà Tĩnh",
+      "chiSoKm": 376,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA042",
+      "tenGa": "Ga Chu Lễ",
+      "diaChi": "Hà Tĩnh",
+      "chiSoKm": 386,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA043",
+      "tenGa": "Ga Hương Phố",
+      "diaChi": "Hà Tĩnh",
+      "chiSoKm": 396,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA044",
+      "tenGa": "Ga Phúc Trạch",
+      "diaChi": "Hà Tĩnh",
+      "chiSoKm": 405,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA045",
+      "tenGa": "Ga La Khê",
+      "diaChi": "Hà Tĩnh",
+      "chiSoKm": 416,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA046",
+      "tenGa": "Ga Tân Ấp",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 430,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA047",
+      "tenGa": "Ga Đồng Chuối",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 440,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA048",
+      "tenGa": "Ga Kim Lũ",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 450,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA049",
+      "tenGa": "Ga Đồng Lê",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 460,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA050",
+      "tenGa": "Ga Ngọc Lâm",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 470,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA051",
+      "tenGa": "Ga Lạc Sơn",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 480,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA052",
+      "tenGa": "Ga Lệ Sơn",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 490,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA053",
+      "tenGa": "Ga Minh Lệ",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 500,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA054",
+      "tenGa": "Ga Ngân Sơn",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 510,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA055",
+      "tenGa": "Ga Thọ Lộc",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 520,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA056",
+      "tenGa": "Ga Hoàn Lão",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 530,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA057",
+      "tenGa": "Ga Phúc Tự",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 540,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA058",
+      "tenGa": "Ga Đồng Hới",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 552,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA059",
+      "tenGa": "Ga Lệ Kỳ",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 529,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA060",
+      "tenGa": "Ga Long Đại",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 539,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA061",
+      "tenGa": "Ga Mỹ Đức",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 551,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA062",
+      "tenGa": "Ga Phú Hòa",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 558,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA063",
+      "tenGa": "Ga Mỹ Trạch",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 565,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA064",
+      "tenGa": "Ga Thượng Lâm",
+      "diaChi": "Quảng Bình",
+      "chiSoKm": 572,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA065",
+      "tenGa": "Ga Sa Lung",
+      "diaChi": "Quảng Trị",
+      "chiSoKm": 588,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA066",
+      "tenGa": "Ga Tiên An",
+      "diaChi": "Quảng Trị",
+      "chiSoKm": 599,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA067",
+      "tenGa": "Ga Hà Thanh",
+      "diaChi": "Quảng Trị",
+      "chiSoKm": 610,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA068",
+      "tenGa": "Ga Đông Hà",
+      "diaChi": "Quảng Trị",
+      "chiSoKm": 622,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA069",
+      "tenGa": "Ga Quảng Trị",
+      "diaChi": "Quảng Trị",
+      "chiSoKm": 634,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA070",
+      "tenGa": "Ga Diên Sanh",
+      "diaChi": "Quảng Trị",
+      "chiSoKm": 643,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA071",
+      "tenGa": "Ga Mỹ Chánh",
+      "diaChi": "Quảng Trị",
+      "chiSoKm": 652,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA072",
+      "tenGa": "Ga Phò Trạch",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 660,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA073",
+      "tenGa": "Ga Hiền Sỹ",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 670,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA074",
+      "tenGa": "Ga Văn Xá",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 678,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA075",
+      "tenGa": "Ga Huế",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 688,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA076",
+      "tenGa": "Ga Hương Thủy",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 699,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA077",
+      "tenGa": "Ga Truồi",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 715,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA078",
+      "tenGa": "Ga Cầu Hai",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 729,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA079",
+      "tenGa": "Ga Thừa Lưu",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 742,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA080",
+      "tenGa": "Ga Lăng Cô",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 755,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA081",
+      "tenGa": "Ga Hải Vân Bắc",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 761,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA082",
+      "tenGa": "Ga Hải Vân",
+      "diaChi": "Thừa Thiên Huế",
+      "chiSoKm": 767,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA083",
+      "tenGa": "Ga Hải Vân Nam",
+      "diaChi": "Đà Nẵng",
+      "chiSoKm": 772,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA084",
+      "tenGa": "Ga Kim Liên",
+      "diaChi": "Đà Nẵng",
+      "chiSoKm": 777,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA085",
+      "tenGa": "Ga Đà Nẵng",
+      "diaChi": "Đà Nẵng",
+      "chiSoKm": 791,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA086",
+      "tenGa": "Ga Thanh Khê",
+      "diaChi": "Đà Nẵng",
+      "chiSoKm": 793,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA087",
+      "tenGa": "Ga Lệ Trạch",
+      "diaChi": "Đà Nẵng",
+      "chiSoKm": 804,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA088",
+      "tenGa": "Ga Nông Sơn",
+      "diaChi": "Quảng Nam",
+      "chiSoKm": 814,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA089",
+      "tenGa": "Ga Trà Kiệu",
+      "diaChi": "Quảng Nam",
+      "chiSoKm": 825,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA090",
+      "tenGa": "Ga Phú Cang",
+      "diaChi": "Quảng Nam",
+      "chiSoKm": 842,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA091",
+      "tenGa": "Ga Tam Thành",
+      "diaChi": "Quảng Nam",
+      "chiSoKm": 855,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA092",
+      "tenGa": "Ga An Mỹ",
+      "diaChi": "Quảng Nam",
+      "chiSoKm": 857,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA093",
+      "tenGa": "Ga Tam Kỳ",
+      "diaChi": "Quảng Nam",
+      "chiSoKm": 865,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA094",
+      "tenGa": "Ga Diêm Phổ",
+      "diaChi": "Quảng Nam",
+      "chiSoKm": 879,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA095",
+      "tenGa": "Ga Núi Thành",
+      "diaChi": "Quảng Nam",
+      "chiSoKm": 890,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA096",
+      "tenGa": "Ga Trì Bình",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 901,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA097",
+      "tenGa": "Ga Bình Sơn",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 909,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA098",
+      "tenGa": "Ga Đại Lộc",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 920,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA099",
+      "tenGa": "Ga Quảng Ngãi",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 928,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA100",
+      "tenGa": "Ga Hòa Vinh Tây",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 940,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA101",
+      "tenGa": "Ga Mộ Đức",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 949,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA102",
+      "tenGa": "Ga Thạch Trụ",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 959,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA103",
+      "tenGa": "Ga Đức Phổ",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 968,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA104",
+      "tenGa": "Ga Thủy Thạch",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 977,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA105",
+      "tenGa": "Ga Sa Huỳnh",
+      "diaChi": "Quảng Ngãi",
+      "chiSoKm": 991,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA106",
+      "tenGa": "Ga Tam Quan",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1004,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA107",
+      "tenGa": "Ga Bồng Sơn",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1017,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA108",
+      "tenGa": "Ga Vạn Phú",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1033,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA109",
+      "tenGa": "Ga Phù Mỹ",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1050,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA110",
+      "tenGa": "Ga Khánh Phước",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1060,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA111",
+      "tenGa": "Ga Phù Cát",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1071,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA112",
+      "tenGa": "Ga Bình Định",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1085,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA113",
+      "tenGa": "Ga Diêu Trì",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1096,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA114",
+      "tenGa": "Ga Tân Vinh",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1111,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA115",
+      "tenGa": "Ga Vân Canh",
+      "diaChi": "Bình Định",
+      "chiSoKm": 1123,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA116",
+      "tenGa": "Ga Phước Lãnh",
+      "diaChi": "Phú Yên",
+      "chiSoKm": 1139,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA117",
+      "tenGa": "Ga La Hai",
+      "diaChi": "Phú Yên",
+      "chiSoKm": 1154,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA118",
+      "tenGa": "Ga Xuân Sơn Nam",
+      "diaChi": "Phú Yên",
+      "chiSoKm": 1162,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA119",
+      "tenGa": "Ga Chí Thạnh",
+      "diaChi": "Phú Yên",
+      "chiSoKm": 1170,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA120",
+      "tenGa": "Ga Hòa Đa",
+      "diaChi": "Phú Yên",
+      "chiSoKm": 1184,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA121",
+      "tenGa": "Ga Tuy Hòa",
+      "diaChi": "Phú Yên",
+      "chiSoKm": 1198,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA122",
+      "tenGa": "Ga Đông Tác",
+      "diaChi": "Phú Yên",
+      "chiSoKm": 1202,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA123",
+      "tenGa": "Ga Phú Hiệp",
+      "diaChi": "Phú Yên",
+      "chiSoKm": 1211,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA124",
+      "tenGa": "Ga Hảo Sơn",
+      "diaChi": "Phú Yên",
+      "chiSoKm": 1220,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA125",
+      "tenGa": "Ga Đại Lãnh",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1232,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA126",
+      "tenGa": "Ga Tu Bông",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1242,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA127",
+      "tenGa": "Ga Giã",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1254,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA128",
+      "tenGa": "Ga Hòa Huỳnh",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1269,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA129",
+      "tenGa": "Ga Ninh Hòa",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1281,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA130",
+      "tenGa": "Ga Phong Thạnh",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1287,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA131",
+      "tenGa": "Ga Lương Sơn",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1303,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA132",
+      "tenGa": "Ga Nha Trang",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1315,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA133",
+      "tenGa": "Ga Cây Cầy",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1330,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA134",
+      "tenGa": "Ga Hòa Tân",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1341,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA135",
+      "tenGa": "Ga Suối Cát",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1351,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA136",
+      "tenGa": "Ga Ngã Ba",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1364,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA137",
+      "tenGa": "Ga Cam Thịnh Đông",
+      "diaChi": "Khánh Hòa",
+      "chiSoKm": 1372,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA138",
+      "tenGa": "Ga Kà Rôm",
+      "diaChi": "Ninh Thuận",
+      "chiSoKm": 1382,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA139",
+      "tenGa": "Ga Phước Nhơn",
+      "diaChi": "Ninh Thuận",
+      "chiSoKm": 1398,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA140",
+      "tenGa": "Ga Tháp Chàm",
+      "diaChi": "Ninh Thuận",
+      "chiSoKm": 1408,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA141",
+      "tenGa": "Ga Hòa Trinh",
+      "diaChi": "Ninh Thuận",
+      "chiSoKm": 1420,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA142",
+      "tenGa": "Ga Cà Ná",
+      "diaChi": "Ninh Thuận",
+      "chiSoKm": 1436,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA143",
+      "tenGa": "Ga Vĩnh Tân",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1446,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA144",
+      "tenGa": "Ga Vĩnh Hảo",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1455,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA145",
+      "tenGa": "Ga Sông Lòng Sông",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1466,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA146",
+      "tenGa": "Ga Phong Phú",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1473,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA147",
+      "tenGa": "Ga Sông Mao",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1484,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA148",
+      "tenGa": "Ga Châu Hanh",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1494,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA149",
+      "tenGa": "Ga Sông Lũy",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1506,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA150",
+      "tenGa": "Ga Long Thạnh",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1523,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA151",
+      "tenGa": "Ga Ma Lâm",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1533,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA152",
+      "tenGa": "Ga Hàm Liêm",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1542,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA153",
+      "tenGa": "Ga Bình Thuận",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1551,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA154",
+      "tenGa": "Ga Hàm Cường Tây",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1560,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA155",
+      "tenGa": "Ga Suối Vận",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1568,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA156",
+      "tenGa": "Ga Sông Phan",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1583,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA157",
+      "tenGa": "Ga Sông Dinh",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1596,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA158",
+      "tenGa": "Ga Suối Kiết",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1603,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA159",
+      "tenGa": "Ga Gia Huynh",
+      "diaChi": "Bình Thuận",
+      "chiSoKm": 1614,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA160",
+      "tenGa": "Ga Trản Táo",
+      "diaChi": "Đồng Nai",
+      "chiSoKm": 1620,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA161",
+      "tenGa": "Ga Gia Ray",
+      "diaChi": "Đồng Nai",
+      "chiSoKm": 1631,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA162",
+      "tenGa": "Ga Bảo Chánh",
+      "diaChi": "Đồng Nai",
+      "chiSoKm": 1640,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA163",
+      "tenGa": "Ga Long Khánh",
+      "diaChi": "Đồng Nai",
+      "chiSoKm": 1650,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA164",
+      "tenGa": "Ga Dầu Giây",
+      "diaChi": "Đồng Nai",
+      "chiSoKm": 1661,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA165",
+      "tenGa": "Ga Trung Hòa",
+      "diaChi": "Đồng Nai",
+      "chiSoKm": 1669,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA166",
+      "tenGa": "Ga Trảng Bom",
+      "diaChi": "Đồng Nai",
+      "chiSoKm": 1678,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA167",
+      "tenGa": "Ga Hố Nai",
+      "diaChi": "Đồng Nai",
+      "chiSoKm": 1688,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA168",
+      "tenGa": "Ga Biên Hòa",
+      "diaChi": "Đồng Nai",
+      "chiSoKm": 1697,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA169",
+      "tenGa": "Ga Dĩ An",
+      "diaChi": "Bình Dương",
+      "chiSoKm": 1707,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA170",
+      "tenGa": "Ga Sóng Thần",
+      "diaChi": "Bình Dương",
+      "chiSoKm": 1711,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA171",
+      "tenGa": "Ga Bình Triệu",
+      "diaChi": "Thành phố Hồ Chí Minh",
+      "chiSoKm": 1718,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA172",
+      "tenGa": "Ga Gò Vấp",
+      "diaChi": "Thành phố Hồ Chí Minh",
+      "chiSoKm": 1722,
+      "trangThai": 1
+    },
+    {
+      "maGa": "GA173",
+      "tenGa": "Ga Sài Gòn",
+      "diaChi": "Thành phố Hồ Chí Minh",
+      "chiSoKm": 1726,
+      "trangThai": 1
+    }
+  ],
+  "khachHang": [
+    {
+      "maKH": "KH0006",
+      "tenKH": "Hoàng Văn F",
+      "email": "hoangf@gmail.com",
+      "sdt": "0912345683",
+      "cccd": "049204013507"
+    },
+    {
+      "maKH": "KH0007",
+      "tenKH": "Bùi Thị G",
+      "email": "buig@gmail.com",
+      "sdt": "0912345684",
+      "cccd": "049204013508"
+    },
+    {
+      "maKH": "KH0008",
+      "tenKH": "Ngô Văn H",
+      "email": "ngoh@gmail.com",
+      "sdt": "0912345685",
+      "cccd": "049204013509"
+    },
+    {
+      "maKH": "KH0009",
+      "tenKH": "Trịnh Thị I",
+      "email": "trinhi@gmail.com",
+      "sdt": "0912345686",
+      "cccd": "049204013510"
+    },
+    {
+      "maKH": "KH0010",
+      "tenKH": "Lý Văn J",
+      "email": "lyj@gmail.com",
+      "sdt": "0912345687",
+      "cccd": "049204013511"
+    },
+    {
+      "maKH": "KH0011",
+      "tenKH": "Vũ Thị K",
+      "email": "vuk@gmail.com",
+      "sdt": "0912345688",
+      "cccd": "049204013512"
+    },
+    {
+      "maKH": "KH0012",
+      "tenKH": "Doãn Văn L",
+      "email": "doanl@gmail.com",
+      "sdt": "0912345689",
+      "cccd": "049204013513"
+    },
+    {
+      "maKH": "KH0013",
+      "tenKH": "Tô Thị M",
+      "email": "tom@gmail.com",
+      "sdt": "0912345690",
+      "cccd": "049204013514"
+    },
+    {
+      "maKH": "KH0014",
+      "tenKH": "Đặng Văn N",
+      "email": "dangn@gmail.com",
+      "sdt": "0912345691",
+      "cccd": "049204013515"
+    },
+    {
+      "maKH": "KH0015",
+      "tenKH": "Hồ Thị O",
+      "email": "ho@gmail.com",
+      "sdt": "0912345692",
+      "cccd": "049204013516"
+    }
+  ]
+}
