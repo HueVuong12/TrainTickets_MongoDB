@@ -1,0 +1,149 @@
+[{
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01797" },
+        "maTau": "1234",
+        "gaDi": "Ga Hà Nội",
+        "gaDen": "Ga Hải Phòng",
+        "tramDung": [
+            { "ga": "Ga Phủ Lý", "thoi_gian": "10:00" },
+            { "ga": "Ga Nam Định", "thoi_gian": "11:00" }
+        ],
+        "ngayDi": "2025-04-01",
+        "ngayDen": "2025-04-01",
+        "gioDi": "09:00",
+        "gioDen": "12:00"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01798" },
+        "maTau": "1235",
+        "gaDi": "Ga Hồ Chí Minh",
+        "gaDen": "Ga Nha Trang",
+        "tramDung": [
+            { "ga": "Ga Biên Hòa", "thoi_gian": "15:30" },
+            { "ga": "Ga Vũng Tàu", "thoi_gian": "16:30" }
+        ],
+        "ngayDi": "2025-04-02",
+        "ngayDen": "2025-04-02",
+        "gioDi": "14:00",
+        "gioDen": "19:00"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01799" },
+        "maTau": "1236",
+        "gaDi": "Ga Đà Nẵng",
+        "gaDen": "Ga Huế",
+        "tramDung": [
+            { "ga": "Ga Quảng Ngãi", "thoi_gian": "08:00" }
+        ],
+        "ngayDi": "2025-04-03",
+        "ngayDen": "2025-04-03",
+        "gioDi": "07:00",
+        "gioDen": "09:30"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01800" },
+        "maTau": "1237",
+        "gaDi": "Ga Hà Nội",
+        "gaDen": "Ga Hải Phòng",
+        "tramDung": [
+            { "ga": "Ga Thanh Hóa", "thoi_gian": "11:00" },
+            { "ga": "Ga Ninh Bình", "thoi_gian": "12:00" }
+        ],
+        "ngayDi": "2025-04-04",
+        "ngayDen": "2025-04-04",
+        "gioDi": "10:00",
+        "gioDen": "14:00"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01801" },
+        "maTau": "1238",
+        "gaDi": "Ga Hồ Chí Minh",
+        "gaDen": "Ga Nha Trang",
+        "tramDung": [
+            { "ga": "Ga Biên Hòa", "thoi_gian": "09:15" }
+        ],
+        "ngayDi": "2025-04-05",
+        "ngayDen": "2025-04-05",
+        "gioDi": "08:30",
+        "gioDen": "13:00"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01802" },
+        "maTau": "1239",
+        "gaDi": "Ga Hải Phòng",
+        "gaDen": "Ga Đà Nẵng",
+        "tramDung": [
+            { "ga": "Ga Thanh Hóa", "thoi_gian": "08:00" },
+            { "ga": "Ga Vinh", "thoi_gian": "10:00" },
+            { "ga": "Ga Quảng Trị", "thoi_gian": "13:00" }
+        ],
+        "ngayDi": "2025-04-06",
+        "ngayDen": "2025-04-06",
+        "gioDi": "06:00",
+        "gioDen": "16:00"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01803" },
+        "maTau": "1240",
+        "gaDi": "Ga Cần Thơ",
+        "gaDen": "Ga Hồ Chí Minh",
+        "tramDung": [
+            { "ga": "Ga Mỹ Tho", "thoi_gian": "07:30" }
+        ],
+        "ngayDi": "2025-04-07",
+        "ngayDen": "2025-04-07",
+        "gioDi": "06:30",
+        "gioDen": "08:30"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01802" },
+        "maTau": "1239",
+        "gaDi": "Ga Đà Nẵng",
+        "gaDen": "Ga Nha Trang",
+        "tramDung": [
+            { "ga": "Ga Quảng Ngãi", "thoi_gian": "14:00" }
+        ],
+        "ngayDi": "2025-04-07",
+        "ngayDen": "2025-04-07",
+        "gioDi": "13:00",
+        "gioDen": "17:30"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01803" },
+        "maTau": "1240",
+        "gaDi": "Ga Cần Thơ",
+        "gaDen": "Ga Hồ Chí Minh",
+        "tramDung": [
+            { "ga": "Ga Mỹ Tho", "thoi_gian": "07:30" }
+        ],
+        "ngayDi": "2025-04-07",
+        "ngayDen": "2025-04-07",
+        "gioDi": "06:30",
+        "gioDen": "08:30"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01804" },
+        "maTau": "1241",
+        "gaDi": "Ga Đà Nẵng",
+        "gaDen": "Ga Hà Nội",
+        "tramDung": [
+            { "ga": "Ga Huế", "thoi_gian": "16:00" }
+        ],
+        "ngayDi": "2025-04-07",
+        "ngayDen": "2025-04-07",
+        "gioDi": "15:00",
+        "gioDen": "20:00"
+    },
+    {
+        "_id": { "$oid": "6789ceef2abf4dd8b9f01805" },
+        "maTau": "1242",
+        "gaDi": "Ga Sài Gòn",
+        "gaDen": "Ga Vũng Tàu",
+        "tramDung": [
+            { "ga": "Ga Bình Dương", "thoi_gian": "08:30" }
+        ],
+        "ngayDi": "2025-04-07",
+        "ngayDen": "2025-04-07",
+        "gioDi": "07:30",
+        "gioDen": "11:30"
+    }
+]
