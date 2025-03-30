@@ -1564,19 +1564,19 @@
     "ca": [
         {
             "maCa": "CA01",
-            "tenCa": "N'Ca 1'",
+            "tenCa": "Ca 1",
             "thoiGianBatDau": "06:00:00",
             "thoiGianKetThuc": "13:59:00"
         },
         {
             "maCa": "CA02",
-            "tenCa": "N'Ca 2'",
+            "tenCa": "Ca 2",
             "thoiGianBatDau": "14:00:00",
             "thoiGianKetThuc": "21:59:00"
         },
         {
             "maCa": "CA03",
-            "tenCa": "N'Ca 3'",
+            "tenCa": "Ca 3",
             "thoiGianBatDau": "22:00:00",
             "thoiGianKetThuc": "05:59:00"
         }
