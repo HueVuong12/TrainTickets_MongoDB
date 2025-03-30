@@ -1,0 +1,3861 @@
+{
+  "toa": [
+    {
+      "maToa": "TA001_01",
+      "loaiToa": "Giường nằm",
+      "maTau": "TA001"
+    },
+    {
+      "maToa": "TA001_02",
+      "loaiToa": "Giường nằm",
+      "maTau": "TA001"
+    },
+    {
+      "maToa": "TA001_03",
+      "loaiToa": "Ghế mềm",
+      "maTau": "TA001"
+    },
+    {
+      "maToa": "TA001_04",
+      "loaiToa": "Ghế mềm",
+      "maTau": "TA001"
+    },
+    {
+      "maToa": "TA001_05",
+      "loaiToa": "VIP",
+      "maTau": "TA001"
+    },
+    {
+      "maToa": "TA002_01",
+      "loaiToa": "Ghế mềm",
+      "maTau": "TA002"
+    },
+    {
+      "maToa": "TA002_02",
+      "loaiToa": "Ghế mềm",
+      "maTau": "TA002"
+    },
+    {
+      "maToa": "TA002_03",
+      "loaiToa": "Ghế mềm",
+      "maTau": "TA002"
+    },
+    {
+      "maToa": "TA002_04",
+      "loaiToa": "Giường nằm",
+      "maTau": "TA002"
+    },
+    {
+      "maToa": "TA002_05",
+      "loaiToa": "Giường nằm",
+      "maTau": "TA002"
+    },
+    {
+      "maToa": "TA002_06",
+      "loaiToa": "Giường nằm",
+      "maTau": "TA002"
+    },
+    {
+      "maToa": "TA003_01",
+      "loaiToa": "Giường nằm",
+      "maTau": "TA003"
+    },
+    {
+      "maToa": "TA003_02",
+      "loaiToa": "Giường nằm",
+      "maTau": "TA003"
+    },
+    {
+      "maToa": "TA003_03",
+      "loaiToa": "Ghế mềm",
+      "maTau": "TA003"
+    },
+    {
+      "maToa": "TA003_04",
+      "loaiToa": "Ghế mềm",
+      "maTau": "TA003"
+    },
+    {
+      "maToa": "TA003_05",
+      "loaiToa": "Ghế mềm",
+      "maTau": "TA003"
+    },
+    {
+      "maToa": "TA003_06",
+      "loaiToa": "VIP",
+      "maTau": "TA003"
+    },
+    {
+      "maToa": "TA003_07",
+      "loaiToa": "VIP",
+      "maTau": "TA003"
+    },
+    {
+      "maToa": "TA003_08",
+      "loaiToa": "VIP",
+      "maTau": "TA003"
+    }
+  ],
+  "ghe": [
+    {
+      "soGhe": 1,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA001_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA001_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA001_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 33,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 33,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 34,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 34,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 35,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 35,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 36,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 36,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 37,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 37,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 38,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 38,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 39,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 39,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 40,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 40,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 41,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 41,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 42,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 42,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 43,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 43,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 44,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 44,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 45,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 45,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 46,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 46,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 47,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 47,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 48,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 48,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 49,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 49,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 50,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 50,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 51,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 51,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 52,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 52,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 53,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 53,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 54,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 54,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 55,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 55,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 56,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 56,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 57,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 57,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 58,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 58,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 59,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 59,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 60,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 60,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 61,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 61,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 62,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 62,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 63,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 63,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 64,
+      "maToa": "TA001_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 64,
+      "maToa": "TA001_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA001_05",
+      "trangThai": true
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 33,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 33,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 33,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 34,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 34,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 34,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 35,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 35,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 35,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 36,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 36,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 36,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 37,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 37,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 37,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 38,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 38,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 38,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 39,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 39,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 39,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 40,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 40,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 40,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 41,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 41,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 41,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 42,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 42,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 42,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 43,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 43,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 43,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 44,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 44,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 44,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 45,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 45,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 45,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 46,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 46,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 46,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 47,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 47,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 47,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 48,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 48,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 48,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 49,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 49,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 49,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 50,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 50,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 50,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 51,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 51,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 51,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 52,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 52,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 52,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 53,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 53,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 53,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 54,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 54,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 54,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 55,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 55,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 55,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 56,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 56,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 56,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 57,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 57,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 57,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 58,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 58,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 58,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 59,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 59,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 59,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 60,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 60,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 60,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 61,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 61,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 61,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 62,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 62,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 62,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 63,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 63,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 63,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 64,
+      "maToa": "TA002_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 64,
+      "maToa": "TA002_02",
+      "trangThai": false
+    },
+    {
+      "soGhe": 64,
+      "maToa": "TA002_03",
+      "trangThai": false
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA002_04",
+      "trangThai": false
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA002_05",
+      "trangThai": false
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA002_06",
+      "trangThai": false
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA003_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA003_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA003_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA003_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA003_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA003_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA003_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA003_01",
+      "trangThai": false
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA003_01",
+      "trangThai": true
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA003_02",
+      "trangThai": true
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 21,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 22,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 23,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 24,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 25,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 26,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 27,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 28,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 29,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 30,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 31,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 32,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 33,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 33,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 34,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 34,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 35,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 35,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 36,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 36,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 37,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 37,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 38,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 38,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 39,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 39,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 40,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 40,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 41,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 41,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 42,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 42,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 43,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 43,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 44,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 44,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 45,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 45,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 46,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 46,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 47,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 47,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 48,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 48,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 49,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 49,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 50,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 50,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 51,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 51,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 52,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 52,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 53,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 53,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 54,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 54,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 55,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 55,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 56,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 56,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 57,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 57,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 58,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 58,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 59,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 59,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 60,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 60,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 61,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 61,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 62,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 62,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 63,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 63,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 64,
+      "maToa": "TA003_03",
+      "trangThai": true
+    },
+    {
+      "soGhe": 64,
+      "maToa": "TA003_04",
+      "trangThai": true
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 1,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 2,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 3,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 4,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 5,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 6,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 7,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 8,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 9,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 10,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 11,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 12,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 13,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 14,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 15,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 16,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 17,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 18,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 19,
+      "maToa": "TA003_08",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA003_06",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA003_07",
+      "trangThai": true
+    },
+    {
+      "soGhe": 20,
+      "maToa": "TA003_08",
+      "trangThai": true
+    }
+  ]
+}
