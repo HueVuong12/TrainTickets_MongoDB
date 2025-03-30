@@ -1,149 +1,2007 @@
-[{
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01797" },
-        "maTau": "1234",
-        "gaDi": "Ga Hà Nội",
-        "gaDen": "Ga Hải Phòng",
-        "tramDung": [
-            { "ga": "Ga Phủ Lý", "thoi_gian": "10:00" },
-            { "ga": "Ga Nam Định", "thoi_gian": "11:00" }
-        ],
-        "ngayDi": "2025-04-01",
-        "ngayDen": "2025-04-01",
-        "gioDi": "09:00",
-        "gioDen": "12:00"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01798" },
-        "maTau": "1235",
-        "gaDi": "Ga Hồ Chí Minh",
-        "gaDen": "Ga Nha Trang",
-        "tramDung": [
-            { "ga": "Ga Biên Hòa", "thoi_gian": "15:30" },
-            { "ga": "Ga Vũng Tàu", "thoi_gian": "16:30" }
-        ],
-        "ngayDi": "2025-04-02",
-        "ngayDen": "2025-04-02",
-        "gioDi": "14:00",
-        "gioDen": "19:00"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01799" },
-        "maTau": "1236",
-        "gaDi": "Ga Đà Nẵng",
-        "gaDen": "Ga Huế",
-        "tramDung": [
-            { "ga": "Ga Quảng Ngãi", "thoi_gian": "08:00" }
-        ],
-        "ngayDi": "2025-04-03",
-        "ngayDen": "2025-04-03",
-        "gioDi": "07:00",
-        "gioDen": "09:30"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01800" },
-        "maTau": "1237",
-        "gaDi": "Ga Hà Nội",
-        "gaDen": "Ga Hải Phòng",
-        "tramDung": [
-            { "ga": "Ga Thanh Hóa", "thoi_gian": "11:00" },
-            { "ga": "Ga Ninh Bình", "thoi_gian": "12:00" }
-        ],
-        "ngayDi": "2025-04-04",
-        "ngayDen": "2025-04-04",
-        "gioDi": "10:00",
-        "gioDen": "14:00"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01801" },
-        "maTau": "1238",
-        "gaDi": "Ga Hồ Chí Minh",
-        "gaDen": "Ga Nha Trang",
-        "tramDung": [
-            { "ga": "Ga Biên Hòa", "thoi_gian": "09:15" }
-        ],
-        "ngayDi": "2025-04-05",
-        "ngayDen": "2025-04-05",
-        "gioDi": "08:30",
-        "gioDen": "13:00"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01802" },
-        "maTau": "1239",
-        "gaDi": "Ga Hải Phòng",
-        "gaDen": "Ga Đà Nẵng",
-        "tramDung": [
-            { "ga": "Ga Thanh Hóa", "thoi_gian": "08:00" },
-            { "ga": "Ga Vinh", "thoi_gian": "10:00" },
-            { "ga": "Ga Quảng Trị", "thoi_gian": "13:00" }
-        ],
-        "ngayDi": "2025-04-06",
-        "ngayDen": "2025-04-06",
-        "gioDi": "06:00",
-        "gioDen": "16:00"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01803" },
-        "maTau": "1240",
-        "gaDi": "Ga Cần Thơ",
-        "gaDen": "Ga Hồ Chí Minh",
-        "tramDung": [
-            { "ga": "Ga Mỹ Tho", "thoi_gian": "07:30" }
-        ],
-        "ngayDi": "2025-04-07",
-        "ngayDen": "2025-04-07",
-        "gioDi": "06:30",
-        "gioDen": "08:30"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01802" },
-        "maTau": "1239",
-        "gaDi": "Ga Đà Nẵng",
-        "gaDen": "Ga Nha Trang",
-        "tramDung": [
-            { "ga": "Ga Quảng Ngãi", "thoi_gian": "14:00" }
-        ],
-        "ngayDi": "2025-04-07",
-        "ngayDen": "2025-04-07",
-        "gioDi": "13:00",
-        "gioDen": "17:30"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01803" },
-        "maTau": "1240",
-        "gaDi": "Ga Cần Thơ",
-        "gaDen": "Ga Hồ Chí Minh",
-        "tramDung": [
-            { "ga": "Ga Mỹ Tho", "thoi_gian": "07:30" }
-        ],
-        "ngayDi": "2025-04-07",
-        "ngayDen": "2025-04-07",
-        "gioDi": "06:30",
-        "gioDen": "08:30"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01804" },
-        "maTau": "1241",
-        "gaDi": "Ga Đà Nẵng",
-        "gaDen": "Ga Hà Nội",
-        "tramDung": [
-            { "ga": "Ga Huế", "thoi_gian": "16:00" }
-        ],
-        "ngayDi": "2025-04-07",
-        "ngayDen": "2025-04-07",
-        "gioDi": "15:00",
-        "gioDen": "20:00"
-    },
-    {
-        "_id": { "$oid": "6789ceef2abf4dd8b9f01805" },
-        "maTau": "1242",
-        "gaDi": "Ga Sài Gòn",
-        "gaDen": "Ga Vũng Tàu",
-        "tramDung": [
-            { "ga": "Ga Bình Dương", "thoi_gian": "08:30" }
-        ],
-        "ngayDi": "2025-04-07",
-        "ngayDen": "2025-04-07",
-        "gioDi": "07:30",
-        "gioDen": "11:30"
-    }
-]
+{
+    "chuyenTau": [{
+            "maTau": "2000",
+            "gaDi": "Ga Vũng Tàu",
+            "gaDen": "Ga Bình Dương",
+            "tramDung": [{
+                "ga": "Ga Cần Thơ",
+                "thoi_gian": "19:30"
+            }],
+            "ngayDi": "2025-04-09",
+            "ngayDen": "2025-04-09",
+            "gioDi": "06:30",
+            "gioDen": "14:30"
+        },
+        {
+            "maTau": "2001",
+            "gaDi": "Ga Hồ Chí Minh",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                "ga": "Ga Biên Hòa",
+                "thoi_gian": "07:30"
+            }],
+            "ngayDi": "2025-04-07",
+            "ngayDen": "2025-04-07",
+            "gioDi": "13:00",
+            "gioDen": "15:00"
+        },
+        {
+            "maTau": "2002",
+            "gaDi": "Ga Đà Nẵng",
+            "gaDen": "Ga Quảng Trị",
+            "tramDung": [{
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "10:30"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "08:30"
+                }
+            ],
+            "ngayDi": "2025-04-16",
+            "ngayDen": "2025-04-16",
+            "gioDi": "15:30",
+            "gioDen": "16:00"
+        },
+        {
+            "maTau": "2003",
+            "gaDi": "Ga Vũng Tàu",
+            "gaDen": "Ga Hải Phòng",
+            "tramDung": [{
+                "ga": "Ga Đà Nẵng",
+                "thoi_gian": "19:30"
+            }],
+            "ngayDi": "2025-04-09",
+            "ngayDen": "2025-04-09",
+            "gioDi": "16:30",
+            "gioDen": "17:00"
+        },
+        {
+            "maTau": "2004",
+            "gaDi": "Ga Bình Dương",
+            "gaDen": "Ga Biên Hòa",
+            "tramDung": [{
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "16:00"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "11:00"
+                },
+                {
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "20:00"
+                }
+            ],
+            "ngayDi": "2025-04-16",
+            "ngayDen": "2025-04-16",
+            "gioDi": "07:30",
+            "gioDen": "18:30"
+        },
+        {
+            "maTau": "2005",
+            "gaDi": "Ga Huế",
+            "gaDen": "Ga Vinh",
+            "tramDung": [{
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "15:30"
+                },
+                {
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "10:30"
+                },
+                {
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "08:00"
+                }
+            ],
+            "ngayDi": "2025-04-12",
+            "ngayDen": "2025-04-12",
+            "gioDi": "15:30",
+            "gioDen": "19:30"
+        },
+        {
+            "maTau": "2006",
+            "gaDi": "Ga Hải Phòng",
+            "gaDen": "Ga Vinh",
+            "tramDung": [{
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "20:30"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "16:30"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "14:30"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "11:30"
+                }
+            ],
+            "ngayDi": "2025-04-22",
+            "ngayDen": "2025-04-22",
+            "gioDi": "10:30",
+            "gioDen": "22:00"
+        },
+        {
+            "maTau": "2007",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Quảng Trị",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "08:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "22:30"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "16:00"
+                },
+                {
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "18:30"
+                }
+            ],
+            "ngayDi": "2025-04-19",
+            "ngayDen": "2025-04-19",
+            "gioDi": "13:30",
+            "gioDen": "16:30"
+        },
+        {
+            "maTau": "2008",
+            "gaDi": "Ga Thanh Hóa",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "16:00"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "13:30"
+                },
+                {
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "16:00"
+                }
+            ],
+            "ngayDi": "2025-04-15",
+            "ngayDen": "2025-04-15",
+            "gioDi": "12:30",
+            "gioDen": "14:30"
+        },
+        {
+            "maTau": "2009",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "07:00"
+                },
+                {
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "17:30"
+                },
+                {
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "23:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "20:00"
+                }
+            ],
+            "ngayDi": "2025-04-11",
+            "ngayDen": "2025-04-11",
+            "gioDi": "13:30",
+            "gioDen": "17:30"
+        },
+        {
+            "maTau": "2010",
+            "gaDi": "Ga Mỹ Tho",
+            "gaDen": "Ga Đà Nẵng",
+            "tramDung": [{
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "22:30"
+                },
+                {
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "13:30"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "13:30"
+                }
+            ],
+            "ngayDi": "2025-04-28",
+            "ngayDen": "2025-04-28",
+            "gioDi": "09:30",
+            "gioDen": "18:00"
+        },
+        {
+            "maTau": "2011",
+            "gaDi": "Ga Quảng Trị",
+            "gaDen": "Ga Biên Hòa",
+            "tramDung": [{
+                "ga": "Ga Bình Dương",
+                "thoi_gian": "19:30"
+            }],
+            "ngayDi": "2025-04-04",
+            "ngayDen": "2025-04-04",
+            "gioDi": "05:30",
+            "gioDen": "11:00"
+        },
+        {
+            "maTau": "2012",
+            "gaDi": "Ga Cần Thơ",
+            "gaDen": "Ga Bình Dương",
+            "tramDung": [{
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "10:00"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "18:30"
+                },
+                {
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "13:00"
+                }
+            ],
+            "ngayDi": "2025-04-14",
+            "ngayDen": "2025-04-14",
+            "gioDi": "18:00",
+            "gioDen": "19:00"
+        },
+        {
+            "maTau": "2013",
+            "gaDi": "Ga Thanh Hóa",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                "ga": "Ga Quảng Trị",
+                "thoi_gian": "08:30"
+            }],
+            "ngayDi": "2025-04-26",
+            "ngayDen": "2025-04-26",
+            "gioDi": "05:30",
+            "gioDen": "07:00"
+        },
+        {
+            "maTau": "2014",
+            "gaDi": "Ga Hải Phòng",
+            "gaDen": "Ga Vinh",
+            "tramDung": [{
+                "ga": "Ga Quảng Ngãi",
+                "thoi_gian": "12:30"
+            }],
+            "ngayDi": "2025-04-19",
+            "ngayDen": "2025-04-19",
+            "gioDi": "18:00",
+            "gioDen": "20:30"
+        },
+        {
+            "maTau": "2015",
+            "gaDi": "Ga Biên Hòa",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                "ga": "Ga Quảng Ngãi",
+                "thoi_gian": "22:00"
+            }],
+            "ngayDi": "2025-04-28",
+            "ngayDen": "2025-04-28",
+            "gioDi": "10:30",
+            "gioDen": "17:30"
+        },
+        {
+            "maTau": "2016",
+            "gaDi": "Ga Quảng Trị",
+            "gaDen": "Ga Hà Nội",
+            "tramDung": [{
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "18:00"
+                },
+                {
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "21:00"
+                },
+                {
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "12:30"
+                }
+            ],
+            "ngayDi": "2025-04-09",
+            "ngayDen": "2025-04-09",
+            "gioDi": "14:30",
+            "gioDen": "19:30"
+        },
+        {
+            "maTau": "2017",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Huế",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "07:00"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "08:00"
+                },
+                {
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "15:30"
+                }
+            ],
+            "ngayDi": "2025-04-07",
+            "ngayDen": "2025-04-07",
+            "gioDi": "16:30",
+            "gioDen": "19:00"
+        },
+        {
+            "maTau": "2018",
+            "gaDi": "Ga Mỹ Tho",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "16:00"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "06:30"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "18:00"
+                }
+            ],
+            "ngayDi": "2025-04-05",
+            "ngayDen": "2025-04-05",
+            "gioDi": "10:00",
+            "gioDen": "16:30"
+        },
+        {
+            "maTau": "2019",
+            "gaDi": "Ga Thanh Hóa",
+            "gaDen": "Ga Bình Dương",
+            "tramDung": [{
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "18:00"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "07:30"
+                }
+            ],
+            "ngayDi": "2025-04-17",
+            "ngayDen": "2025-04-17",
+            "gioDi": "07:30",
+            "gioDen": "09:30"
+        },
+        {
+            "maTau": "2020",
+            "gaDi": "Ga Hồ Chí Minh",
+            "gaDen": "Ga Vũng Tàu",
+            "tramDung": [{
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "11:30"
+                },
+                {
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "23:00"
+                }
+            ],
+            "ngayDi": "2025-04-24",
+            "ngayDen": "2025-04-24",
+            "gioDi": "14:00",
+            "gioDen": "18:00"
+        },
+        {
+            "maTau": "2021",
+            "gaDi": "Ga Đà Nẵng",
+            "gaDen": "Ga Nam Định",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "22:00"
+                },
+                {
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "16:30"
+                }
+            ],
+            "ngayDi": "2025-04-03",
+            "ngayDen": "2025-04-03",
+            "gioDi": "08:30",
+            "gioDen": "09:30"
+        },
+        {
+            "maTau": "2022",
+            "gaDi": "Ga Bình Dương",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "18:30"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "20:00"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "15:30"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "23:00"
+                }
+            ],
+            "ngayDi": "2025-04-22",
+            "ngayDen": "2025-04-22",
+            "gioDi": "15:00",
+            "gioDen": "23:00"
+        },
+        {
+            "maTau": "2023",
+            "gaDi": "Ga Nha Trang",
+            "gaDen": "Ga Hải Phòng",
+            "tramDung": [{
+                "ga": "Ga Mỹ Tho",
+                "thoi_gian": "22:30"
+            }],
+            "ngayDi": "2025-04-27",
+            "ngayDen": "2025-04-27",
+            "gioDi": "15:30",
+            "gioDen": "23:00"
+        },
+        {
+            "maTau": "2024",
+            "gaDi": "Ga Quảng Trị",
+            "gaDen": "Ga Hải Phòng",
+            "tramDung": [{
+                "ga": "Ga Quảng Ngãi",
+                "thoi_gian": "09:30"
+            }],
+            "ngayDi": "2025-04-08",
+            "ngayDen": "2025-04-08",
+            "gioDi": "07:30",
+            "gioDen": "15:30"
+        },
+        {
+            "maTau": "2025",
+            "gaDi": "Ga Hà Nội",
+            "gaDen": "Ga Nam Định",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "09:00"
+                },
+                {
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "13:00"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "10:00"
+                }
+            ],
+            "ngayDi": "2025-04-17",
+            "ngayDen": "2025-04-17",
+            "gioDi": "06:30",
+            "gioDen": "10:30"
+        },
+        {
+            "maTau": "2026",
+            "gaDi": "Ga Đà Nẵng",
+            "gaDen": "Ga Vinh",
+            "tramDung": [{
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "17:00"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "09:30"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "19:00"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "21:30"
+                }
+            ],
+            "ngayDi": "2025-04-27",
+            "ngayDen": "2025-04-27",
+            "gioDi": "12:30",
+            "gioDen": "13:30"
+        },
+        {
+            "maTau": "2027",
+            "gaDi": "Ga Biên Hòa",
+            "gaDen": "Ga Mỹ Tho",
+            "tramDung": [{
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "23:30"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "15:30"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "09:30"
+                }
+            ],
+            "ngayDi": "2025-04-11",
+            "ngayDen": "2025-04-11",
+            "gioDi": "18:30",
+            "gioDen": "21:00"
+        },
+        {
+            "maTau": "2028",
+            "gaDi": "Ga Đà Nẵng",
+            "gaDen": "Ga Hồ Chí Minh",
+            "tramDung": [{
+                "ga": "Ga Quảng Trị",
+                "thoi_gian": "17:30"
+            }],
+            "ngayDi": "2025-04-27",
+            "ngayDen": "2025-04-27",
+            "gioDi": "16:00",
+            "gioDen": "23:30"
+        },
+        {
+            "maTau": "2029",
+            "gaDi": "Ga Đà Nẵng",
+            "gaDen": "Ga Biên Hòa",
+            "tramDung": [{
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "08:30"
+                },
+                {
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "07:30"
+                }
+            ],
+            "ngayDi": "2025-04-13",
+            "ngayDen": "2025-04-13",
+            "gioDi": "11:30",
+            "gioDen": "21:30"
+        },
+        {
+            "maTau": "2030",
+            "gaDi": "Ga Thanh Hóa",
+            "gaDen": "Ga Cần Thơ",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "20:30"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "13:00"
+                },
+                {
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "06:00"
+                },
+                {
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "17:00"
+                }
+            ],
+            "ngayDi": "2025-04-05",
+            "ngayDen": "2025-04-05",
+            "gioDi": "18:00",
+            "gioDen": "22:30"
+        },
+        {
+            "maTau": "2031",
+            "gaDi": "Ga Hà Nội",
+            "gaDen": "Ga Mỹ Tho",
+            "tramDung": [{
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "09:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "08:30"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "13:00"
+                }
+            ],
+            "ngayDi": "2025-04-11",
+            "ngayDen": "2025-04-11",
+            "gioDi": "14:30",
+            "gioDen": "19:30"
+        },
+        {
+            "maTau": "2032",
+            "gaDi": "Ga Vũng Tàu",
+            "gaDen": "Ga Nam Định",
+            "tramDung": [{
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "16:00"
+                },
+                {
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "23:00"
+                },
+                {
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "14:30"
+                }
+            ],
+            "ngayDi": "2025-04-23",
+            "ngayDen": "2025-04-23",
+            "gioDi": "14:00",
+            "gioDen": "15:00"
+        },
+        {
+            "maTau": "2033",
+            "gaDi": "Ga Hồ Chí Minh",
+            "gaDen": "Ga Vinh",
+            "tramDung": [{
+                "ga": "Ga Quảng Ngãi",
+                "thoi_gian": "20:30"
+            }],
+            "ngayDi": "2025-04-05",
+            "ngayDen": "2025-04-05",
+            "gioDi": "18:00",
+            "gioDen": "19:00"
+        },
+        {
+            "maTau": "2034",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Quảng Trị",
+            "tramDung": [{
+                "ga": "Ga Mỹ Tho",
+                "thoi_gian": "06:00"
+            }],
+            "ngayDi": "2025-04-23",
+            "ngayDen": "2025-04-23",
+            "gioDi": "10:00",
+            "gioDen": "14:30"
+        },
+        {
+            "maTau": "2035",
+            "gaDi": "Ga Nam Định",
+            "gaDen": "Ga Cần Thơ",
+            "tramDung": [{
+                "ga": "Ga Vũng Tàu",
+                "thoi_gian": "16:00"
+            }],
+            "ngayDi": "2025-04-20",
+            "ngayDen": "2025-04-20",
+            "gioDi": "10:30",
+            "gioDen": "16:30"
+        },
+        {
+            "maTau": "2036",
+            "gaDi": "Ga Hồ Chí Minh",
+            "gaDen": "Ga Huế",
+            "tramDung": [{
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "13:00"
+                },
+                {
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "19:30"
+                },
+                {
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "11:30"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "08:00"
+                }
+            ],
+            "ngayDi": "2025-04-08",
+            "ngayDen": "2025-04-08",
+            "gioDi": "13:00",
+            "gioDen": "23:30"
+        },
+        {
+            "maTau": "2037",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Biên Hòa",
+            "tramDung": [{
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "12:00"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "21:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "15:30"
+                }
+            ],
+            "ngayDi": "2025-04-14",
+            "ngayDen": "2025-04-14",
+            "gioDi": "13:30",
+            "gioDen": "19:00"
+        },
+        {
+            "maTau": "2038",
+            "gaDi": "Ga Cần Thơ",
+            "gaDen": "Ga Vũng Tàu",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "13:00"
+                },
+                {
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "12:00"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "15:30"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "19:30"
+                }
+            ],
+            "ngayDi": "2025-04-24",
+            "ngayDen": "2025-04-24",
+            "gioDi": "17:00",
+            "gioDen": "21:30"
+        },
+        {
+            "maTau": "2039",
+            "gaDi": "Ga Hải Phòng",
+            "gaDen": "Ga Vũng Tàu",
+            "tramDung": [{
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "08:00"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "10:30"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "09:30"
+                }
+            ],
+            "ngayDi": "2025-04-18",
+            "ngayDen": "2025-04-18",
+            "gioDi": "09:30",
+            "gioDen": "23:00"
+        },
+        {
+            "maTau": "2040",
+            "gaDi": "Ga Cần Thơ",
+            "gaDen": "Ga Mỹ Tho",
+            "tramDung": [{
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "22:30"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "22:00"
+                },
+                {
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "23:30"
+                }
+            ],
+            "ngayDi": "2025-04-24",
+            "ngayDen": "2025-04-24",
+            "gioDi": "11:30",
+            "gioDen": "20:30"
+        },
+        {
+            "maTau": "2041",
+            "gaDi": "Ga Bình Dương",
+            "gaDen": "Ga Huế",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "10:30"
+                },
+                {
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "20:30"
+                },
+                {
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "08:30"
+                },
+                {
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "16:00"
+                }
+            ],
+            "ngayDi": "2025-04-06",
+            "ngayDen": "2025-04-06",
+            "gioDi": "18:00",
+            "gioDen": "23:00"
+        },
+        {
+            "maTau": "2042",
+            "gaDi": "Ga Hải Phòng",
+            "gaDen": "Ga Vinh",
+            "tramDung": [{
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "19:30"
+                },
+                {
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "20:30"
+                }
+            ],
+            "ngayDi": "2025-04-01",
+            "ngayDen": "2025-04-01",
+            "gioDi": "18:00",
+            "gioDen": "19:30"
+        },
+        {
+            "maTau": "2043",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Nam Định",
+            "tramDung": [{
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "21:00"
+                },
+                {
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "22:00"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "18:00"
+                }
+            ],
+            "ngayDi": "2025-04-11",
+            "ngayDen": "2025-04-11",
+            "gioDi": "06:00",
+            "gioDen": "18:00"
+        },
+        {
+            "maTau": "2044",
+            "gaDi": "Ga Hải Phòng",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                "ga": "Ga Hải Phòng",
+                "thoi_gian": "10:00"
+            }],
+            "ngayDi": "2025-04-19",
+            "ngayDen": "2025-04-19",
+            "gioDi": "07:30",
+            "gioDen": "23:00"
+        },
+        {
+            "maTau": "2045",
+            "gaDi": "Ga Biên Hòa",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "23:00"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "21:30"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "10:00"
+                }
+            ],
+            "ngayDi": "2025-04-16",
+            "ngayDen": "2025-04-16",
+            "gioDi": "16:30",
+            "gioDen": "21:30"
+        },
+        {
+            "maTau": "2046",
+            "gaDi": "Ga Nha Trang",
+            "gaDen": "Ga Quảng Trị",
+            "tramDung": [{
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "17:00"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "08:30"
+                }
+            ],
+            "ngayDi": "2025-04-29",
+            "ngayDen": "2025-04-29",
+            "gioDi": "09:00",
+            "gioDen": "10:00"
+        },
+        {
+            "maTau": "2047",
+            "gaDi": "Ga Huế",
+            "gaDen": "Ga Hà Nội",
+            "tramDung": [{
+                "ga": "Ga Biên Hòa",
+                "thoi_gian": "11:00"
+            }],
+            "ngayDi": "2025-04-27",
+            "ngayDen": "2025-04-27",
+            "gioDi": "05:00",
+            "gioDen": "12:00"
+        },
+        {
+            "maTau": "2048",
+            "gaDi": "Ga Huế",
+            "gaDen": "Ga Cần Thơ",
+            "tramDung": [{
+                "ga": "Ga Mỹ Tho",
+                "thoi_gian": "13:00"
+            }],
+            "ngayDi": "2025-04-08",
+            "ngayDen": "2025-04-08",
+            "gioDi": "14:00",
+            "gioDen": "19:00"
+        },
+        {
+            "maTau": "2049",
+            "gaDi": "Ga Nam Định",
+            "gaDen": "Ga Đà Nẵng",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "22:30"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "09:00"
+                }
+            ],
+            "ngayDi": "2025-04-15",
+            "ngayDen": "2025-04-15",
+            "gioDi": "18:00",
+            "gioDen": "23:30"
+        },
+        {
+            "maTau": "2050",
+            "gaDi": "Ga Quảng Trị",
+            "gaDen": "Ga Cần Thơ",
+            "tramDung": [{
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "23:30"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "11:30"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "18:00"
+                },
+                {
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "17:30"
+                }
+            ],
+            "ngayDi": "2025-04-07",
+            "ngayDen": "2025-04-07",
+            "gioDi": "06:00",
+            "gioDen": "10:00"
+        },
+        {
+            "maTau": "2051",
+            "gaDi": "Ga Huế",
+            "gaDen": "Ga Hồ Chí Minh",
+            "tramDung": [{
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "06:00"
+                },
+                {
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "12:30"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "21:30"
+                }
+            ],
+            "ngayDi": "2025-04-07",
+            "ngayDen": "2025-04-07",
+            "gioDi": "12:30",
+            "gioDen": "19:00"
+        },
+        {
+            "maTau": "2052",
+            "gaDi": "Ga Thanh Hóa",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "13:00"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "23:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "19:00"
+                }
+            ],
+            "ngayDi": "2025-04-20",
+            "ngayDen": "2025-04-20",
+            "gioDi": "14:00",
+            "gioDen": "21:30"
+        },
+        {
+            "maTau": "2053",
+            "gaDi": "Ga Quảng Trị",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "17:00"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "23:30"
+                },
+                {
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "10:00"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "07:30"
+                }
+            ],
+            "ngayDi": "2025-04-15",
+            "ngayDen": "2025-04-15",
+            "gioDi": "09:30",
+            "gioDen": "23:00"
+        },
+        {
+            "maTau": "2054",
+            "gaDi": "Ga Nha Trang",
+            "gaDen": "Ga Biên Hòa",
+            "tramDung": [{
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "09:00"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "19:00"
+                }
+            ],
+            "ngayDi": "2025-04-10",
+            "ngayDen": "2025-04-10",
+            "gioDi": "07:30",
+            "gioDen": "22:30"
+        },
+        {
+            "maTau": "2055",
+            "gaDi": "Ga Hải Phòng",
+            "gaDen": "Ga Hà Nội",
+            "tramDung": [{
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "13:00"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "08:30"
+                }
+            ],
+            "ngayDi": "2025-04-13",
+            "ngayDen": "2025-04-13",
+            "gioDi": "18:30",
+            "gioDen": "23:30"
+        },
+        {
+            "maTau": "2056",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Cần Thơ",
+            "tramDung": [{
+                "ga": "Ga Nha Trang",
+                "thoi_gian": "22:00"
+            }],
+            "ngayDi": "2025-04-10",
+            "ngayDen": "2025-04-10",
+            "gioDi": "18:00",
+            "gioDen": "20:30"
+        },
+        {
+            "maTau": "2057",
+            "gaDi": "Ga Mỹ Tho",
+            "gaDen": "Ga Vinh",
+            "tramDung": [{
+                "ga": "Ga Cần Thơ",
+                "thoi_gian": "17:00"
+            }],
+            "ngayDi": "2025-04-24",
+            "ngayDen": "2025-04-24",
+            "gioDi": "12:30",
+            "gioDen": "23:30"
+        },
+        {
+            "maTau": "2058",
+            "gaDi": "Ga Bình Dương",
+            "gaDen": "Ga Nam Định",
+            "tramDung": [{
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "20:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "23:30"
+                },
+                {
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "20:00"
+                }
+            ],
+            "ngayDi": "2025-04-24",
+            "ngayDen": "2025-04-24",
+            "gioDi": "07:30",
+            "gioDen": "13:00"
+        },
+        {
+            "maTau": "2059",
+            "gaDi": "Ga Quảng Trị",
+            "gaDen": "Ga Hồ Chí Minh",
+            "tramDung": [{
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "19:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "12:30"
+                },
+                {
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "08:00"
+                }
+            ],
+            "ngayDi": "2025-04-28",
+            "ngayDen": "2025-04-28",
+            "gioDi": "17:00",
+            "gioDen": "18:30"
+        },
+        {
+            "maTau": "2060",
+            "gaDi": "Ga Quảng Trị",
+            "gaDen": "Ga Hồ Chí Minh",
+            "tramDung": [{
+                "ga": "Ga Quảng Ngãi",
+                "thoi_gian": "14:00"
+            }],
+            "ngayDi": "2025-04-02",
+            "ngayDen": "2025-04-02",
+            "gioDi": "06:00",
+            "gioDen": "07:00"
+        },
+        {
+            "maTau": "2061",
+            "gaDi": "Ga Quảng Trị",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "12:30"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "10:30"
+                }
+            ],
+            "ngayDi": "2025-04-15",
+            "ngayDen": "2025-04-15",
+            "gioDi": "09:00",
+            "gioDen": "13:00"
+        },
+        {
+            "maTau": "2062",
+            "gaDi": "Ga Vũng Tàu",
+            "gaDen": "Ga Đà Nẵng",
+            "tramDung": [{
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "23:30"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "15:30"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "09:00"
+                }
+            ],
+            "ngayDi": "2025-04-08",
+            "ngayDen": "2025-04-08",
+            "gioDi": "18:00",
+            "gioDen": "23:30"
+        },
+        {
+            "maTau": "2063",
+            "gaDi": "Ga Quảng Trị",
+            "gaDen": "Ga Vinh",
+            "tramDung": [{
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "18:00"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "15:30"
+                }
+            ],
+            "ngayDi": "2025-04-04",
+            "ngayDen": "2025-04-04",
+            "gioDi": "07:30",
+            "gioDen": "17:30"
+        },
+        {
+            "maTau": "2064",
+            "gaDi": "Ga Mỹ Tho",
+            "gaDen": "Ga Vinh",
+            "tramDung": [{
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "13:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "11:30"
+                }
+            ],
+            "ngayDi": "2025-04-25",
+            "ngayDen": "2025-04-25",
+            "gioDi": "15:00",
+            "gioDen": "23:00"
+        },
+        {
+            "maTau": "2065",
+            "gaDi": "Ga Thanh Hóa",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "17:00"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "06:30"
+                }
+            ],
+            "ngayDi": "2025-04-02",
+            "ngayDen": "2025-04-02",
+            "gioDi": "09:00",
+            "gioDen": "12:00"
+        },
+        {
+            "maTau": "2066",
+            "gaDi": "Ga Mỹ Tho",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                    "ga": "Ga Huế",
+                    "thoi_gian": "22:00"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "16:00"
+                }
+            ],
+            "ngayDi": "2025-04-21",
+            "ngayDen": "2025-04-21",
+            "gioDi": "17:30",
+            "gioDen": "19:30"
+        },
+        {
+            "maTau": "2067",
+            "gaDi": "Ga Đà Nẵng",
+            "gaDen": "Ga Hải Phòng",
+            "tramDung": [{
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "11:30"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "06:00"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "19:00"
+                },
+                {
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "12:00"
+                }
+            ],
+            "ngayDi": "2025-04-25",
+            "ngayDen": "2025-04-25",
+            "gioDi": "05:00",
+            "gioDen": "14:00"
+        },
+        {
+            "maTau": "2068",
+            "gaDi": "Ga Hà Nội",
+            "gaDen": "Ga Đà Nẵng",
+            "tramDung": [{
+                "ga": "Ga Vinh",
+                "thoi_gian": "21:00"
+            }],
+            "ngayDi": "2025-04-25",
+            "ngayDen": "2025-04-25",
+            "gioDi": "12:00",
+            "gioDen": "16:30"
+        },
+        {
+            "maTau": "2069",
+            "gaDi": "Ga Huế",
+            "gaDen": "Ga Biên Hòa",
+            "tramDung": [{
+                    "ga": "Ga Huế",
+                    "thoi_gian": "21:30"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "18:30"
+                }
+            ],
+            "ngayDi": "2025-04-18",
+            "ngayDen": "2025-04-18",
+            "gioDi": "12:30",
+            "gioDen": "14:00"
+        },
+        {
+            "maTau": "2070",
+            "gaDi": "Ga Nha Trang",
+            "gaDen": "Ga Đà Nẵng",
+            "tramDung": [{
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "20:30"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "10:30"
+                },
+                {
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "15:00"
+                },
+                {
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "07:30"
+                }
+            ],
+            "ngayDi": "2025-04-07",
+            "ngayDen": "2025-04-07",
+            "gioDi": "05:30",
+            "gioDen": "12:00"
+        },
+        {
+            "maTau": "2071",
+            "gaDi": "Ga Hà Nội",
+            "gaDen": "Ga Bình Dương",
+            "tramDung": [{
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "20:00"
+                },
+                {
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "19:00"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "06:30"
+                },
+                {
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "07:00"
+                }
+            ],
+            "ngayDi": "2025-04-11",
+            "ngayDen": "2025-04-11",
+            "gioDi": "12:30",
+            "gioDen": "18:00"
+        },
+        {
+            "maTau": "2072",
+            "gaDi": "Ga Huế",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "16:30"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "09:00"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "12:00"
+                }
+            ],
+            "ngayDi": "2025-04-22",
+            "ngayDen": "2025-04-22",
+            "gioDi": "10:30",
+            "gioDen": "21:00"
+        },
+        {
+            "maTau": "2073",
+            "gaDi": "Ga Bình Dương",
+            "gaDen": "Ga Hà Nội",
+            "tramDung": [{
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "09:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "06:30"
+                },
+                {
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "10:00"
+                },
+                {
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "09:30"
+                }
+            ],
+            "ngayDi": "2025-04-02",
+            "ngayDen": "2025-04-02",
+            "gioDi": "06:00",
+            "gioDen": "18:30"
+        },
+        {
+            "maTau": "2074",
+            "gaDi": "Ga Mỹ Tho",
+            "gaDen": "Ga Cần Thơ",
+            "tramDung": [{
+                "ga": "Ga Cần Thơ",
+                "thoi_gian": "14:00"
+            }],
+            "ngayDi": "2025-04-02",
+            "ngayDen": "2025-04-02",
+            "gioDi": "16:30",
+            "gioDen": "18:30"
+        },
+        {
+            "maTau": "2075",
+            "gaDi": "Ga Mỹ Tho",
+            "gaDen": "Ga Hà Nội",
+            "tramDung": [{
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "11:00"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "15:00"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "19:00"
+                }
+            ],
+            "ngayDi": "2025-04-15",
+            "ngayDen": "2025-04-15",
+            "gioDi": "09:30",
+            "gioDen": "15:00"
+        },
+        {
+            "maTau": "2076",
+            "gaDi": "Ga Huế",
+            "gaDen": "Ga Đà Nẵng",
+            "tramDung": [{
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "08:00"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "20:30"
+                }
+            ],
+            "ngayDi": "2025-04-09",
+            "ngayDen": "2025-04-09",
+            "gioDi": "11:00",
+            "gioDen": "19:30"
+        },
+        {
+            "maTau": "2077",
+            "gaDi": "Ga Nha Trang",
+            "gaDen": "Ga Cần Thơ",
+            "tramDung": [{
+                "ga": "Ga Hồ Chí Minh",
+                "thoi_gian": "13:00"
+            }],
+            "ngayDi": "2025-04-24",
+            "ngayDen": "2025-04-24",
+            "gioDi": "10:00",
+            "gioDen": "13:00"
+        },
+        {
+            "maTau": "2078",
+            "gaDi": "Ga Hải Phòng",
+            "gaDen": "Ga Thanh Hóa",
+            "tramDung": [{
+                "ga": "Ga Nha Trang",
+                "thoi_gian": "13:30"
+            }],
+            "ngayDi": "2025-04-17",
+            "ngayDen": "2025-04-17",
+            "gioDi": "07:30",
+            "gioDen": "22:30"
+        },
+        {
+            "maTau": "2079",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Biên Hòa",
+            "tramDung": [{
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "17:30"
+                },
+                {
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "20:00"
+                }
+            ],
+            "ngayDi": "2025-04-22",
+            "ngayDen": "2025-04-22",
+            "gioDi": "16:00",
+            "gioDen": "18:00"
+        },
+        {
+            "maTau": "2080",
+            "gaDi": "Ga Bình Dương",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "15:00"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "09:00"
+                }
+            ],
+            "ngayDi": "2025-04-14",
+            "ngayDen": "2025-04-14",
+            "gioDi": "08:30",
+            "gioDen": "13:30"
+        },
+        {
+            "maTau": "2081",
+            "gaDi": "Ga Vũng Tàu",
+            "gaDen": "Ga Nam Định",
+            "tramDung": [{
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "19:30"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "08:30"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "06:00"
+                }
+            ],
+            "ngayDi": "2025-04-15",
+            "ngayDen": "2025-04-15",
+            "gioDi": "09:00",
+            "gioDen": "11:30"
+        },
+        {
+            "maTau": "2082",
+            "gaDi": "Ga Cần Thơ",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                    "ga": "Ga Huế",
+                    "thoi_gian": "12:00"
+                },
+                {
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "09:00"
+                }
+            ],
+            "ngayDi": "2025-04-12",
+            "ngayDen": "2025-04-12",
+            "gioDi": "12:00",
+            "gioDen": "18:00"
+        },
+        {
+            "maTau": "2083",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Huế",
+            "tramDung": [{
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "14:30"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "19:30"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "16:30"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "13:30"
+                }
+            ],
+            "ngayDi": "2025-04-25",
+            "ngayDen": "2025-04-25",
+            "gioDi": "12:30",
+            "gioDen": "18:30"
+        },
+        {
+            "maTau": "2084",
+            "gaDi": "Ga Vinh",
+            "gaDen": "Ga Vũng Tàu",
+            "tramDung": [{
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "21:30"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "08:30"
+                },
+                {
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "19:00"
+                }
+            ],
+            "ngayDi": "2025-04-11",
+            "ngayDen": "2025-04-11",
+            "gioDi": "05:00",
+            "gioDen": "18:30"
+        },
+        {
+            "maTau": "2085",
+            "gaDi": "Ga Vinh",
+            "gaDen": "Ga Bình Dương",
+            "tramDung": [{
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "13:00"
+                },
+                {
+                    "ga": "Ga Cần Thơ",
+                    "thoi_gian": "13:30"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "22:00"
+                },
+                {
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "23:30"
+                }
+            ],
+            "ngayDi": "2025-04-08",
+            "ngayDen": "2025-04-08",
+            "gioDi": "14:00",
+            "gioDen": "18:00"
+        },
+        {
+            "maTau": "2086",
+            "gaDi": "Ga Huế",
+            "gaDen": "Ga Nha Trang",
+            "tramDung": [{
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "13:00"
+                },
+                {
+                    "ga": "Ga Huế",
+                    "thoi_gian": "08:00"
+                }
+            ],
+            "ngayDi": "2025-04-26",
+            "ngayDen": "2025-04-26",
+            "gioDi": "05:00",
+            "gioDen": "16:30"
+        },
+        {
+            "maTau": "2087",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Vũng Tàu",
+            "tramDung": [{
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "21:00"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "19:30"
+                },
+                {
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "08:00"
+                }
+            ],
+            "ngayDi": "2025-04-17",
+            "ngayDen": "2025-04-17",
+            "gioDi": "15:30",
+            "gioDen": "16:30"
+        },
+        {
+            "maTau": "2088",
+            "gaDi": "Ga Hồ Chí Minh",
+            "gaDen": "Ga Quảng Trị",
+            "tramDung": [{
+                    "ga": "Ga Hồ Chí Minh",
+                    "thoi_gian": "22:00"
+                },
+                {
+                    "ga": "Ga Quảng Trị",
+                    "thoi_gian": "07:30"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "11:30"
+                }
+            ],
+            "ngayDi": "2025-04-30",
+            "ngayDen": "2025-04-30",
+            "gioDi": "08:00",
+            "gioDen": "11:30"
+        },
+        {
+            "maTau": "2089",
+            "gaDi": "Ga Nha Trang",
+            "gaDen": "Ga Thanh Hóa",
+            "tramDung": [{
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "11:30"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "17:00"
+                },
+                {
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "10:30"
+                }
+            ],
+            "ngayDi": "2025-04-26",
+            "ngayDen": "2025-04-26",
+            "gioDi": "05:00",
+            "gioDen": "20:30"
+        },
+        {
+            "maTau": "2090",
+            "gaDi": "Ga Bình Dương",
+            "gaDen": "Ga Biên Hòa",
+            "tramDung": [{
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "09:00"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "23:30"
+                },
+                {
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "06:30"
+                }
+            ],
+            "ngayDi": "2025-04-20",
+            "ngayDen": "2025-04-20",
+            "gioDi": "13:30",
+            "gioDen": "15:30"
+        },
+        {
+            "maTau": "2091",
+            "gaDi": "Ga Biên Hòa",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                    "ga": "Ga Huế",
+                    "thoi_gian": "14:30"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "07:00"
+                },
+                {
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "15:00"
+                },
+                {
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "08:30"
+                }
+            ],
+            "ngayDi": "2025-04-12",
+            "ngayDen": "2025-04-12",
+            "gioDi": "11:30",
+            "gioDen": "13:00"
+        },
+        {
+            "maTau": "2092",
+            "gaDi": "Ga Mỹ Tho",
+            "gaDen": "Ga Đà Nẵng",
+            "tramDung": [{
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "16:30"
+                },
+                {
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "11:00"
+                }
+            ],
+            "ngayDi": "2025-04-20",
+            "ngayDen": "2025-04-20",
+            "gioDi": "11:00",
+            "gioDen": "13:30"
+        },
+        {
+            "maTau": "2093",
+            "gaDi": "Ga Thanh Hóa",
+            "gaDen": "Ga Biên Hòa",
+            "tramDung": [{
+                    "ga": "Ga Thanh Hóa",
+                    "thoi_gian": "10:30"
+                },
+                {
+                    "ga": "Ga Vũng Tàu",
+                    "thoi_gian": "11:30"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "19:00"
+                }
+            ],
+            "ngayDi": "2025-04-08",
+            "ngayDen": "2025-04-08",
+            "gioDi": "16:00",
+            "gioDen": "23:00"
+        },
+        {
+            "maTau": "2094",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Thanh Hóa",
+            "tramDung": [{
+                    "ga": "Ga Huế",
+                    "thoi_gian": "23:00"
+                },
+                {
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "07:00"
+                },
+                {
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "14:00"
+                },
+                {
+                    "ga": "Ga Bình Dương",
+                    "thoi_gian": "17:30"
+                }
+            ],
+            "ngayDi": "2025-04-07",
+            "ngayDen": "2025-04-07",
+            "gioDi": "05:00",
+            "gioDen": "06:30"
+        },
+        {
+            "maTau": "2095",
+            "gaDi": "Ga Quảng Ngãi",
+            "gaDen": "Ga Hà Nội",
+            "tramDung": [{
+                    "ga": "Ga Mỹ Tho",
+                    "thoi_gian": "21:00"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "13:30"
+                },
+                {
+                    "ga": "Ga Hà Nội",
+                    "thoi_gian": "23:00"
+                }
+            ],
+            "ngayDi": "2025-04-22",
+            "ngayDen": "2025-04-22",
+            "gioDi": "05:00",
+            "gioDen": "12:00"
+        },
+        {
+            "maTau": "2096",
+            "gaDi": "Ga Thanh Hóa",
+            "gaDen": "Ga Mỹ Tho",
+            "tramDung": [{
+                "ga": "Ga Đà Nẵng",
+                "thoi_gian": "21:30"
+            }],
+            "ngayDi": "2025-04-29",
+            "ngayDen": "2025-04-29",
+            "gioDi": "18:00",
+            "gioDen": "20:00"
+        },
+        {
+            "maTau": "2097",
+            "gaDi": "Ga Bình Dương",
+            "gaDen": "Ga Mỹ Tho",
+            "tramDung": [{
+                    "ga": "Ga Nam Định",
+                    "thoi_gian": "20:00"
+                },
+                {
+                    "ga": "Ga Đà Nẵng",
+                    "thoi_gian": "16:30"
+                },
+                {
+                    "ga": "Ga Hải Phòng",
+                    "thoi_gian": "07:00"
+                }
+            ],
+            "ngayDi": "2025-04-02",
+            "ngayDen": "2025-04-02",
+            "gioDi": "05:30",
+            "gioDen": "14:00"
+        },
+        {
+            "maTau": "2098",
+            "gaDi": "Ga Thanh Hóa",
+            "gaDen": "Ga Nam Định",
+            "tramDung": [{
+                    "ga": "Ga Nha Trang",
+                    "thoi_gian": "23:00"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "15:30"
+                },
+                {
+                    "ga": "Ga Quảng Ngãi",
+                    "thoi_gian": "15:30"
+                }
+            ],
+            "ngayDi": "2025-04-26",
+            "ngayDen": "2025-04-26",
+            "gioDi": "05:00",
+            "gioDen": "19:00"
+        },
+        {
+            "maTau": "2099",
+            "gaDi": "Ga Huế",
+            "gaDen": "Ga Quảng Ngãi",
+            "tramDung": [{
+                    "ga": "Ga Vinh",
+                    "thoi_gian": "20:30"
+                },
+                {
+                    "ga": "Ga Biên Hòa",
+                    "thoi_gian": "15:30"
+                }
+            ],
+            "ngayDi": "2025-04-15",
+            "ngayDen": "2025-04-15",
+            "gioDi": "06:00",
+            "gioDen": "16:30"
+        }
+    ]
+}
