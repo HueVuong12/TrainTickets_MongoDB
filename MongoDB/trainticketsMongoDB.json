@@ -1318,5 +1318,105 @@
       "sdt": "0912345692",
       "cccd": "049204013516"
     }
+  ],
+  "chiTietHoaDon": [
+    {
+      "maChiTiet": "CT121224NV00100001",
+      "hoaDon": "121224NV00100001",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00100002",
+      "hoaDon": "121224NV00100002",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00100003",
+      "hoaDon": "121224NV00100003",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00100004",
+      "hoaDon": "121224NV00100004",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00100005",
+      "hoaDon": "121224NV00100005",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00100006",
+      "hoaDon": "121224NV00100006",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00100007",
+      "hoaDon": "121224NV00100007",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00100008",
+      "hoaDon": "121224NV00100008",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00100009",
+      "hoaDon": "121224NV00100009",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00100010",
+      "hoaDon": "121224NV00100010",
+      "soLuong": 1,
+      "thue": 0.1
+    }
+  ],
+  "matKhau": [
+    {
+      "maTaiKhoan": "TKQL001",
+      "matKhau": "$2a$10$TRm5dVhaJWRHb79qS8HsseY6IJMi9h7v1QkRnLrJv11rgJPe/a3Ha",
+      "phanQuyen": 1,
+      "nhanVien": "NV001"
+    },
+    {
+      "maTaiKhoan": "TKNV001",
+      "matKhau": "$2a$10$vgzYlKNkHWLrktVahbnrge5.Zj41Dn00JGrFnJwNF5i.6Nw/0ZgAG",
+      "phanQuyen": 2,
+      "nhanVien": "NV002"
+    },
+    {
+      "maTaiKhoan": "TKNV002",
+      "matKhau": "$2a$10$srI9GG.XfevMMh/fMzoHkeJe9Je74LBntHxb39pKfbACdcNahuzMC",
+      "phanQuyen": 2,
+      "nhanVien": "NV003"
+    },
+    {
+      "maTaiKhoan": "TKNV003",
+      "matKhau": "$2a$10$.WeVGlVgcmyuAHU7X4PAGuJeDG9Ayh8hcHzX0inxIFWHGjzmi56vK",
+      "phanQuyen": 2,
+      "nhanVien": "NV004"
+    },
+    {
+      "maTaiKhoan": "TKQL002",
+      "matKhau": "$2a$10$G/GC.cg8UjDPo6OqUpt/Tes75yUVK39sxO6Q0qfPOM0COwDCy2vRO",
+      "phanQuyen": 1,
+      "nhanVien": "NV005"
+    },
+    {
+      "maTaiKhoan": "TKQL003",
+      "matKhau": "$2a$10$sbr8QaU7j9ivkv2rX3X6IuXUJ6HPWa/SI7JmYA.kcF9uwYZZEMtv2",
+      "phanQuyen": 1,
+      "nhanVien": "NV006"
+    }
   ]
 }
