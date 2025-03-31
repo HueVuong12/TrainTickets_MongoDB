@@ -1324,73 +1324,73 @@
             "maNV": "NV001",
             "tenNV": "Bùi Hữu Khang",
             "ngaySinh": {"$date": "2004-04-04T00:00:00Z"},
-            "gioiTinh": 0,
+            "gioiTinh": false,
             "ca": "CA03",
             "cccd": "079204033973",
             "email": "buihuukhang44@gmail.com",
             "sdt": "0987948398",
-            "trangThai": 1,
-            "chucVu": 1
+            "trangThai": true,
+            "chucVu": true
         },
         {
             "maNV": "NV002",
             "tenNV": "Đặng Thị T",
             "ngaySinh": {"$date": "2001-04-15T00:00:00Z"},
-            "gioiTinh": 1,
+            "gioiTinh": true,
             "ca": "CA02",
             "cccd": "020201174839",
             "email": "dangthit25@gmail.com",
             "sdt": "0957180819",
-            "trangThai": 1,
-            "chucVu": 2
+            "trangThai": true,
+            "chucVu": false
         },
         {
             "maNV": "NV003",
             "tenNV": "Đỗ Xuân Phong",
             "ngaySinh": {"$date": "2004-02-06T00:00:00Z"},
-            "gioiTinh": 0,
+            "gioiTinh": false,
             "ca": "CA01",
             "cccd": "075204874924",
             "email": "doxuanphong95@gmail.com",
             "sdt": "0940145826",
-            "trangThai": 1,
-            "chucVu": 2
+            "trangThai": true,
+            "chucVu": false
         },
         {
             "maNV": "NV004",
             "tenNV": "Trần Quốc Long",
             "ngaySinh": {"$date": "2005-10-05T00:00:00Z"},
-            "gioiTinh": 0,
+            "gioiTinh": false,
             "ca": "CA03",
             "cccd": "079205763432",
             "email": "tranquoclong@gmail.com",
             "sdt": "0916486720",
-            "trangThai": 1,
-            "chucVu": 2
+            "trangThai": true,
+            "chucVu": false
         },
         {
             "maNV": "NV005",
             "tenNV": "Hoàng Khánh Linh",
             "ngaySinh": {"$date": "2002-03-13T00:00:00Z"},
-            "gioiTinh": 1,
+            "gioiTinh": true,
             "ca": "CA01",
             "cccd": "001202016634",
             "email": "hoangkhanhlinh3@gmail.com",
             "sdt": "0885953731",
-            "trangThai": 1,
-            "chucVu": 1
+            "trangThai": true,
+            "chucVu": true
         },
         {
             "maNV": "NV006",
             "tenNV": "Hoàng Đức Chung",
             "ngaySinh": {"$date": "2003-10-28T00:00:00Z"},
-            "gioiTinh": 0,
+            "gioiTinh": false,
             "ca": "CA02",
             "cccd": "079203275834",
             "email": "hoangchung203@gmail.com",
             "sdt": "0933746619",
-            "trangThai": 1,
-            "chucVu": 1
+            "trangThai": true,
+            "chucVu": true
         }
     ],
     "ca": [
