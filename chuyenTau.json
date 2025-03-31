@@ -1,0 +1,165 @@
+{
+    "chuyenTau": [{
+            "maTau": "TA001",
+            "gaDi": "GA001",
+            "gaDen": "GA173",
+            "ngayDi": "2025-04-28",
+            "gioDi": "06:00:00",
+            "ngayDen": "2025-04-29",
+            "gioDen": "18:00:00"
+        },
+        {
+            "maTau": "TA002",
+            "gaDi": "GA173",
+            "gaDen": "GA001",
+            "ngayDi": "2025-04-30",
+            "gioDi": "06:00:00",
+            "ngayDen": "2025-05-01",
+            "gioDen": "19:00:00"
+        },
+        {
+            "maTau": "TA003",
+            "gaDi": "GA001",
+            "gaDen": "GA045",
+            "ngayDi": "2025-05-02",
+            "gioDi": "08:00:00",
+            "ngayDen": "2025-05-02",
+            "gioDen": "20:00:00"
+        },
+        {
+            "maTau": "TA004",
+            "gaDi": "GA015",
+            "gaDen": "GA080",
+            "ngayDi": "2025-05-02",
+            "gioDi": "09:00:00",
+            "ngayDen": "2025-05-02",
+            "gioDen": "22:00:00"
+        },
+        {
+            "maTau": "TA005",
+            "gaDi": "GA075",
+            "gaDen": "GA095",
+            "ngayDi": "2025-05-03",
+            "gioDi": "07:00:00",
+            "ngayDen": "2025-05-03",
+            "gioDen": "15:30:00"
+        },
+        {
+            "maTau": "TA006",
+            "gaDi": "GA045",
+            "gaDen": "GA120",
+            "ngayDi": "2025-05-04",
+            "gioDi": "10:00:00",
+            "ngayDen": "2025-05-04",
+            "gioDen": "22:00:00"
+        },
+        {
+            "maTau": "TA007",
+            "gaDi": "GA120",
+            "gaDen": "GA150",
+            "ngayDi": "2025-05-05",
+            "gioDi": "09:30:00",
+            "ngayDen": "2025-05-05",
+            "gioDen": "21:30:00"
+        },
+        {
+            "maTau": "TA008",
+            "gaDi": "GA150",
+            "gaDen": "GA110",
+            "ngayDi": "2025-05-06",
+            "gioDi": "07:30:00",
+            "ngayDen": "2025-05-06",
+            "gioDen": "18:00:00"
+        },
+        {
+            "maTau": "TA009",
+            "gaDi": "GA110",
+            "gaDen": "GA100",
+            "ngayDi": "2025-05-07",
+            "gioDi": "06:00:00",
+            "ngayDen": "2025-05-07",
+            "gioDen": "17:00:00"
+        },
+        {
+            "maTau": "TA010",
+            "gaDi": "GA160",
+            "gaDen": "GA140",
+            "ngayDi": "2025-05-08",
+            "gioDi": "06:30:00",
+            "ngayDen": "2025-05-08",
+            "gioDen": "16:00:00"
+        },
+        {
+            "maTau": "TA011",
+            "gaDi": "GA140",
+            "gaDen": "GA130",
+            "ngayDi": "2025-05-08",
+            "gioDi": "07:00:00",
+            "ngayDen": "2025-05-08",
+            "gioDen": "17:00:00"
+        },
+        {
+            "maTau": "TA012",
+            "gaDi": "GA120",
+            "gaDen": "GA130",
+            "ngayDi": "2025-05-09",
+            "gioDi": "05:30:00",
+            "ngayDen": "2025-05-09",
+            "gioDen": "15:30:00"
+        },
+        {
+            "maTau": "TA013",
+            "gaDi": "GA100",
+            "gaDen": "GA140",
+            "ngayDi": "2025-05-09",
+            "gioDi": "07:00:00",
+            "ngayDen": "2025-05-09",
+            "gioDen": "17:30:00"
+        },
+        {
+            "maTau": "TA014",
+            "gaDi": "GA040",
+            "gaDen": "GA080",
+            "ngayDi": "2025-04-27",
+            "gioDi": "06:00:00",
+            "ngayDen": "2025-04-27",
+            "gioDen": "16:00:00"
+        },
+        {
+            "maTau": "TA015",
+            "gaDi": "GA169",
+            "gaDen": "GA099",
+            "ngayDi": "2025-04-27",
+            "gioDi": "08:00:00",
+            "ngayDen": "2025-04-27",
+            "gioDen": "18:00:00"
+        },
+        {
+            "maTau": "TA016",
+            "gaDi": "GA100",
+            "gaDen": "GA045",
+            "ngayDi": "2025-04-28",
+            "gioDi": "07:00:00",
+            "ngayDen": "2025-04-28",
+            "gioDen": "17:00:00"
+        },
+        {
+            "maTau": "TA017",
+            "gaDi": "GA139",
+            "gaDen": "GA035",
+            "ngayDi": "2025-04-28",
+            "gioDi": "09:00:00",
+            "ngayDen": "2025-04-28",
+            "gioDen": "19:00:00"
+        },
+        {
+            "maTau": "TA018",
+            "gaDi": "GA173",
+            "gaDen": "GA001",
+            "ngayDi": "2025-04-26",
+            "gioDi": "06:00:00",
+            "ngayDen": "2025-04-27",
+            "gioDen": "19:00:00"
+        }
+    ]
+}
