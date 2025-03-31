@@ -1,9 +1,102 @@
-{"_id":{"$oid":"6789ceef2abf4dd8b9f01797"},"ma_chuyen":"1234","lich_trinh":{"xuat_phat":{"ga":"Ga Hà Nội","thoi_gian":"09:00"},"dung_giua_chang":[{"ga":"Ga Phủ Lý","thoi_gian":"10:00"},{"ga":"Ga Nam Định","thoi_gian":"11:00"}],"den":{"ga":"Ga Hải Phòng","thoi_gian":"12:00"}},"loai_tau":"Tàu nhanh","so_luong_ve":{"ghe_ngoi_thuong":200,"giuong_nam":50},"dich_vu_tien_ich":["Wifi miễn phí","Ghế ngả lưng","Bữa ăn nhẹ trên tàu"]}
-{"_id":{"$oid":"6789ceef2abf4dd8b9f01798"},"ma_chuyen":"1235","lich_trinh":{"xuat_phat":{"ga":"Ga Hồ Chí Minh","thoi_gian":"14:00"},"dung_giua_chang":[{"ga":"Ga Biên Hòa","thoi_gian":"15:30"},{"ga":"Ga Vũng Tàu","thoi_gian":"16:30"}],"den":{"ga":"Ga Nha Trang","thoi_gian":"19:00"}},"loai_tau":"Tàu chậm","so_luong_ve":{"ghe_ngoi_thuong":250,"giuong_nam":70},"dich_vu_tien_ich":["Wifi miễn phí","Cửa sổ mở","Nước giải khát"]}
-{"_id":{"$oid":"6789ceef2abf4dd8b9f01799"},"ma_chuyen":"1236","lich_trinh":{"xuat_phat":{"ga":"Ga Đà Nẵng","thoi_gian":"07:00"},"dung_giua_chang":[{"ga":"Ga Quảng Ngãi","thoi_gian":"08:00"}],"den":{"ga":"Ga Huế","thoi_gian":"09:30"}},"loai_tau":"Tàu cao tốc","so_luong_ve":{"ghe_ngoi_thuong":180,"giuong_nam":40},"dich_vu_tien_ich":["Wifi miễn phí","Ghế massage","Bữa ăn trên tàu"]}
-{"_id":{"$oid":"6789ceef2abf4dd8b9f01800"},"ma_chuyen":"1237","lich_trinh":{"xuat_phat":{"ga":"Ga Hà Nội","thoi_gian":"10:00"},"dung_giua_chang":[{"ga":"Ga Thanh Hóa","thoi_gian":"11:00"},{"ga":"Ga Ninh Bình","thoi_gian":"12:00"}],"den":{"ga":"Ga Hải Phòng","thoi_gian":"14:00"}},"loai_tau":"Tàu thông thường","so_luong_ve":{"ghe_ngoi_thuong":300,"giuong_nam":80},"dich_vu_tien_ich":["Wifi miễn phí","Ghế ngả lưng"]}
-{"_id":{"$oid":"6789ceef2abf4dd8b9f01801"},"ma_chuyen":"1238","lich_trinh":{"xuat_phat":{"ga":"Ga Hồ Chí Minh","thoi_gian":"08:30"},"dung_giua_chang":[{"ga":"Ga Biên Hòa","thoi_gian":"09:15"}],"den":{"ga":"Ga Nha Trang","thoi_gian":"13:00"}},"loai_tau":"Tàu nhanh","so_luong_ve":{"ghe_ngoi_thuong":220,"giuong_nam":60},"dich_vu_tien_ich":["Wifi miễn phí","Bữa ăn nhẹ trên tàu"]}
-{"_id":{"$oid":"6789ceef2abf4dd8b9f01802"},"ma_chuyen":"1239","lich_trinh":{"xuat_phat":{"ga":"Ga Đà Nẵng","thoi_gian":"13:00"},"dung_giua_chang":[{"ga":"Ga Quảng Ngãi","thoi_gian":"14:00"}],"den":{"ga":"Ga Nha Trang","thoi_gian":"17:30"}},"loai_tau":"Tàu cao tốc","so_luong_ve":{"ghe_ngoi_thuong":250,"giuong_nam":70},"dich_vu_tien_ich":["Wifi miễn phí","Nước giải khát"]}
-{"_id":{"$oid":"6789ceef2abf4dd8b9f01803"},"ma_chuyen":"1240","lich_trinh":{"xuat_phat":{"ga":"Ga Hải Phòng","thoi_gian":"11:00"},"dung_giua_chang":[{"ga":"Ga Nam Định","thoi_gian":"12:00"}],"den":{"ga":"Ga Hà Nội","thoi_gian":"14:00"}},"loai_tau":"Tàu thông thường","so_luong_ve":{"ghe_ngoi_thuong":280,"giuong_nam":60},"dich_vu_tien_ich":["Wifi miễn phí"]}
-{"_id":{"$oid":"6789ceef2abf4dd8b9f01804"},"ma_chuyen":"1241","lich_trinh":{"xuat_phat":{"ga":"Ga Đà Nẵng","thoi_gian":"15:00"},"dung_giua_chang":[{"ga":"Ga Huế","thoi_gian":"16:00"}],"den":{"ga":"Ga Hà Nội","thoi_gian":"20:00"}},"loai_tau":"Tàu nhanh","so_luong_ve":{"ghe_ngoi_thuong":250,"giuong_nam":70},"dich_vu_tien_ich":["Wifi miễn phí","Bữa ăn trên tàu"]}
-{"_id":{"$oid":"6789ceef2abf4dd8b9f01805"},"ma_chuyen":"1242","lich_trinh":{"xuat_phat":{"ga":"Ga Sài Gòn","thoi_gian":"07:30"},"dung_giua_chang":[{"ga":"Ga Bình Dương","thoi_gian":"08:30"}],"den":{"ga":"Ga Vũng Tàu","thoi_gian":"11:30"}},"loai_tau":"Tàu thông thường","so_luong_ve":{"ghe_ngoi_thuong":200,"giuong_nam":50},"dich_vu_tien_ich":["Wifi miễn phí"]}
+[
+{
+    "maVe": "VE001",
+    "tau": "TA017",
+    "toa": "TA003_02",
+    "soGhe": "1",
+    "khachHang": "KH0008",
+    "trangThai": "FALSE",
+    "loaiVe": "THUONG",
+    "chiTiet": "CT121224NV00100004"
+},
+{
+    "maVe": "VE002",
+    "tau": "TA007",
+    "toa": "TA001_05",
+    "soGhe": "2",
+    "khachHang": "KH0003",
+    "trangThai": "FALSE",
+    "loaiVe": "VIP",
+    "chiTiet": "CT121224NV00100008"
+},
+{
+    "maVe": "VE003",
+    "tau": "TA013",
+    "toa": "TA002_05",
+    "soGhe": "3",
+    "khachHang": "KH0005",
+    "trangThai": "TRUE",
+    "loaiVe": "THUONG",
+    "chiTiet": "CT121224NV00100010"
+},
+{
+    "maVe": "VE004",
+    "tau": "TA011",
+    "toa": "TA002_04",
+    "soGhe": "4",
+    "khachHang": "KH0015",
+    "trangThai": "FALSE",
+    "loaiVe": "THUONG",
+    "chiTiet": "CT121224NV00100008"
+},
+{
+    "maVe": "VE005",
+    "tau": "TA009",
+    "toa": "TA002_03",
+    "soGhe": "5",
+    "khachHang": "KH0010",
+    "trangThai": "FALSE",
+    "loaiVe": "THUONG",
+    "chiTiet": "CT121224NV00100007"
+},
+{
+    "maVe": "VE006",
+    "tau": "TA017",
+    "toa": "TA003_03",
+    "soGhe": "6",
+    "khachHang": "KH0014",
+    "trangThai": "FALSE",
+    "loaiVe": "VIP",
+    "chiTiet": "CT121224NV00100010"
+},
+{
+    "maVe": "VE007",
+    "tau": "TA008",
+    "toa": "TA002_03",
+    "soGhe": "7",
+    "khachHang": "KH0015",
+    "trangThai": "TRUE",
+    "loaiVe": "VIP",
+    "chiTiet": "CT121224NV00100008"
+},
+{
+    "maVe": "VE008",
+    "tau": "TA009",
+    "toa": "TA002_05",
+    "soGhe": "8",
+    "khachHang": "KH0010",
+    "trangThai": "TRUE",
+    "loaiVe": "VIP",
+    "chiTiet": "CT121224NV00100010"
+},
+{
+    "maVe": "VE009",
+    "tau": "TA014",
+    "toa": "TA002_06",
+    "soGhe": "9",
+    "khachHang": "KH0011",
+    "trangThai": "TRUE",
+    "loaiVe": "VIP",
+    "chiTiet": "CT121224NV00100010"
+},
+{
+    "maVe": "VE010",
+    "tau": "TA010",
+    "toa": "TA003_05",
+    "soGhe": "10",
+    "khachHang": "KH0015",
+    "trangThai": "FALSE",
+    "loaiVe": "VIP",
+    "chiTiet": "CT121224NV00100010"
+}
+]
