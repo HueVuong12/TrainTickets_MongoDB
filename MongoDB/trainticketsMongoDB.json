@@ -1330,7 +1330,7 @@
             "email": "buihuukhang44@gmail.com",
             "sdt": "0987948398",
             "trangThai": true,
-            "chucVu": true
+            "chucVu": 1
         },
         {
             "maNV": "NV002",
@@ -1342,7 +1342,7 @@
             "email": "dangthit25@gmail.com",
             "sdt": "0957180819",
             "trangThai": true,
-            "chucVu": false
+            "chucVu": 2
         },
         {
             "maNV": "NV003",
@@ -1354,7 +1354,7 @@
             "email": "doxuanphong95@gmail.com",
             "sdt": "0940145826",
             "trangThai": true,
-            "chucVu": false
+            "chucVu": 2
         },
         {
             "maNV": "NV004",
@@ -1366,7 +1366,7 @@
             "email": "tranquoclong@gmail.com",
             "sdt": "0916486720",
             "trangThai": true,
-            "chucVu": false
+            "chucVu": 2
         },
         {
             "maNV": "NV005",
@@ -1378,7 +1378,7 @@
             "email": "hoangkhanhlinh3@gmail.com",
             "sdt": "0885953731",
             "trangThai": true,
-            "chucVu": true
+            "chucVu": 1
         },
         {
             "maNV": "NV006",
@@ -1390,7 +1390,7 @@
             "email": "hoangchung203@gmail.com",
             "sdt": "0933746619",
             "trangThai": true,
-            "chucVu": true
+            "chucVu": 1
         }
     ],
     "ca": [
