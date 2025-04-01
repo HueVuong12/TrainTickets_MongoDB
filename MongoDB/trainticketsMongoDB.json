@@ -1379,6 +1379,36 @@
       "hoaDon": "121224NV00100010",
       "soLuong": 1,
       "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00200012",
+      "hoaDon": "121224NV00200012",
+      "soLuong": 2,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00200013",
+      "hoaDon": "121224NV00200013",
+      "soLuong": 2,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00200014",
+      "hoaDon": "121224NV00200014",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00200015",
+      "hoaDon": "121224NV00200015",
+      "soLuong": 1,
+      "thue": 0.1
+    },
+    {
+      "maChiTiet": "CT121224NV00200016",
+      "hoaDon": "121224NV00200016",
+      "soLuong": 2,
+      "thue": 0.1
     }
   ],
   "taiKhoan": [
