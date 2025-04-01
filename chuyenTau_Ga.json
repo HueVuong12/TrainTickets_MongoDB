@@ -1,0 +1,243 @@
+{
+    "chuyenTau_Ga": [{
+            "maTau": "TA001",
+            "maGa": "GA075",
+            "ngayDi": { "$date": "2025-04-28T06:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T20:33:00Z" }
+        },
+        {
+            "maTau": "TA001",
+            "maGa": "GA095",
+            "ngayDi": { "$date": "2025-04-28T06:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T23:07:00Z" }
+        },
+        {
+            "maTau": "TA001",
+            "maGa": "GA132",
+            "ngayDi": { "$date": "2025-04-28T06:00:00Z" },
+            "ngayDen": { "$date": "2025-04-29T09:46:00Z" }
+        },
+        {
+            "maTau": "TA002",
+            "maGa": "GA153",
+            "ngayDi": { "$date": "2025-04-30T08:30:00Z" },
+            "ngayDen": { "$date": "2025-04-30T09:30:00Z" }
+        },
+        {
+            "maTau": "TA002",
+            "maGa": "GA099",
+            "ngayDi": { "$date": "2025-04-30T11:00:00Z" },
+            "ngayDen": { "$date": "2025-04-30T21:50:00Z" }
+        },
+        {
+            "maTau": "TA002",
+            "maGa": "GA035",
+            "ngayDi": { "$date": "2025-04-30T14:00:00Z" },
+            "ngayDen": { "$date": "2025-05-01T11:20:00Z" }
+        },
+        {
+            "maTau": "TA003",
+            "maGa": "GA020",
+            "ngayDi": { "$date": "2025-05-02T08:30:00Z" },
+            "ngayDen": { "$date": "2025-05-02T09:00:00Z" }
+        },
+        {
+            "maTau": "TA003",
+            "maGa": "GA035",
+            "ngayDi": { "$date": "2025-05-02T11:00:00Z" },
+            "ngayDen": { "$date": "2025-05-02T14:30:00Z" }
+        },
+        {
+            "maTau": "TA004",
+            "maGa": "GA020",
+            "ngayDi": { "$date": "2025-05-02T09:30:00Z" },
+            "ngayDen": { "$date": "2025-05-02T10:30:00Z" }
+        },
+        {
+            "maTau": "TA004",
+            "maGa": "GA030",
+            "ngayDi": { "$date": "2025-05-02T13:30:00Z" },
+            "ngayDen": { "$date": "2025-05-02T14:30:00Z" }
+        },
+        {
+            "maTau": "TA004",
+            "maGa": "GA070",
+            "ngayDi": { "$date": "2025-05-02T16:30:00Z" },
+            "ngayDen": { "$date": "2025-05-02T19:00:00Z" }
+        },
+        {
+            "maTau": "TA005",
+            "maGa": "GA090",
+            "ngayDi": { "$date": "2025-05-03T07:30:00Z" },
+            "ngayDen": { "$date": "2025-05-03T10:00:00Z" }
+        },
+        {
+            "maTau": "TA006",
+            "maGa": "GA050",
+            "ngayDi": { "$date": "2025-05-04T10:30:00Z" },
+            "ngayDen": { "$date": "2025-05-04T11:00:00Z" }
+        },
+        {
+            "maTau": "TA006",
+            "maGa": "GA100",
+            "ngayDi": { "$date": "2025-05-04T12:30:00Z" },
+            "ngayDen": { "$date": "2025-05-04T13:30:00Z" }
+        },
+        {
+            "maTau": "TA006",
+            "maGa": "GA110",
+            "ngayDi": { "$date": "2025-05-04T14:30:00Z" },
+            "ngayDen": { "$date": "2025-05-04T16:00:00Z" }
+        },
+        {
+            "maTau": "TA007",
+            "maGa": "GA130",
+            "ngayDi": { "$date": "2025-05-05T10:00:00Z" },
+            "ngayDen": { "$date": "2025-05-05T11:00:00Z" }
+        },
+        {
+            "maTau": "TA007",
+            "maGa": "GA140",
+            "ngayDi": { "$date": "2025-05-05T12:00:00Z" },
+            "ngayDen": { "$date": "2025-05-05T13:30:00Z" }
+        },
+        {
+            "maTau": "TA008",
+            "maGa": "GA140",
+            "ngayDi": { "$date": "2025-05-06T08:00:00Z" },
+            "ngayDen": { "$date": "2025-05-06T09:00:00Z" }
+        },
+        {
+            "maTau": "TA008",
+            "maGa": "GA130",
+            "ngayDi": { "$date": "2025-05-06T10:30:00Z" },
+            "ngayDen": { "$date": "2025-05-06T11:30:00Z" }
+        },
+        {
+            "maTau": "TA008",
+            "maGa": "GA120",
+            "ngayDi": { "$date": "2025-05-06T13:00:00Z" },
+            "ngayDen": { "$date": "2025-05-06T14:30:00Z" }
+        },
+        {
+            "maTau": "TA010",
+            "maGa": "GA150",
+            "ngayDi": { "$date": "2025-05-08T09:00:00Z" },
+            "ngayDen": { "$date": "2025-05-08T10:30:00Z" }
+        },
+        {
+            "maTau": "TA011",
+            "maGa": "GA135",
+            "ngayDi": { "$date": "2025-05-08T08:00:00Z" },
+            "ngayDen": { "$date": "2025-05-08T09:30:00Z" }
+        },
+        {
+            "maTau": "TA012",
+            "maGa": "GA123",
+            "ngayDi": { "$date": "2025-05-09T06:30:00Z" },
+            "ngayDen": { "$date": "2025-05-09T08:00:00Z" }
+        },
+        {
+            "maTau": "TA013",
+            "maGa": "GA110",
+            "ngayDi": { "$date": "2025-05-09T08:00:00Z" },
+            "ngayDen": { "$date": "2025-05-09T09:30:00Z" }
+        },
+        {
+            "maTau": "TA013",
+            "maGa": "GA130",
+            "ngayDi": { "$date": "2025-05-09T10:00:00Z" },
+            "ngayDen": { "$date": "2025-05-09T11:30:00Z" }
+        },
+        {
+            "maTau": "TA014",
+            "maGa": "GA060",
+            "ngayDi": { "$date": "2025-04-27T07:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T08:30:00Z" }
+        },
+        {
+            "maTau": "TA014",
+            "maGa": "GA070",
+            "ngayDi": { "$date": "2025-04-27T09:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T10:30:00Z" }
+        },
+        {
+            "maTau": "TA014",
+            "maGa": "GA078",
+            "ngayDi": { "$date": "2025-04-27T11:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T12:30:00Z" }
+        },
+        {
+            "maTau": "TA015",
+            "maGa": "GA150",
+            "ngayDi": { "$date": "2025-04-27T09:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T10:30:00Z" }
+        },
+        {
+            "maTau": "TA015",
+            "maGa": "GA120",
+            "ngayDi": { "$date": "2025-04-27T11:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T12:30:00Z" }
+        },
+        {
+            "maTau": "TA015",
+            "maGa": "GA100",
+            "ngayDi": { "$date": "2025-04-27T13:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T14:30:00Z" }
+        },
+        {
+            "maTau": "TA016",
+            "maGa": "GA090",
+            "ngayDi": { "$date": "2025-04-28T08:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T09:30:00Z" }
+        },
+        {
+            "maTau": "TA016",
+            "maGa": "GA060",
+            "ngayDi": { "$date": "2025-04-28T10:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T11:30:00Z" }
+        },
+        {
+            "maTau": "TA016",
+            "maGa": "GA050",
+            "ngayDi": { "$date": "2025-04-28T12:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T13:30:00Z" }
+        },
+        {
+            "maTau": "TA017",
+            "maGa": "GA123",
+            "ngayDi": { "$date": "2025-04-28T10:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T11:30:00Z" }
+        },
+        {
+            "maTau": "TA017",
+            "maGa": "GA086",
+            "ngayDi": { "$date": "2025-04-28T12:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T13:30:00Z" }
+        },
+        {
+            "maTau": "TA017",
+            "maGa": "GA045",
+            "ngayDi": { "$date": "2025-04-28T14:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T15:30:00Z" }
+        },
+        {
+            "maTau": "TA018",
+            "maGa": "GA153",
+            "ngayDi": { "$date": "2025-04-26T08:30:00Z" },
+            "ngayDen": { "$date": "2025-04-26T09:30:00Z" }
+        },
+        {
+            "maTau": "TA018",
+            "maGa": "GA099",
+            "ngayDi": { "$date": "2025-04-26T11:00:00Z" },
+            "ngayDen": { "$date": "2025-04-26T21:50:00Z" }
+        },
+        {
+            "maTau": "TA018",
+            "maGa": "GA035",
+            "ngayDi": { "$date": "2025-04-26T14:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T11:20:00Z" }
+        }
+    ]
+}
