@@ -1,0 +1,129 @@
+{
+    "chuyenTau": [{
+            "maTau": "TA001",
+            "gaDi": "GA001",
+            "gaDen": "GA173",
+            "ngayDi": { "$date": "2025-04-28T06:00:00Z" },
+            "ngayDen": { "$date": "2025-04-29T18:00:00Z" }
+        },
+        {
+            "maTau": "TA002",
+            "gaDi": "GA173",
+            "gaDen": "GA001",
+            "ngayDi": { "$date": "2025-04-30T06:00:00Z" },
+            "ngayDen": { "$date": "2025-05-01T19:00:00Z" }
+        },
+        {
+            "maTau": "TA003",
+            "gaDi": "GA001",
+            "gaDen": "GA045",
+            "ngayDi": { "$date": "2025-05-02T08:00:00Z" },
+            "ngayDen": { "$date": "2025-05-02T20:00:00Z" }
+        },
+        {
+            "maTau": "TA004",
+            "gaDi": "GA015",
+            "gaDen": "GA080",
+            "ngayDi": { "$date": "2025-05-02T09:00:00Z" },
+            "ngayDen": { "$date": "2025-05-02T22:00:00Z" }
+        },
+        {
+            "maTau": "TA005",
+            "gaDi": "GA075",
+            "gaDen": "GA095",
+            "ngayDi": { "$date": "2025-05-03T07:00:00Z" },
+            "ngayDen": { "$date": "2025-05-03T15:30:00Z" }
+        },
+        {
+            "maTau": "TA006",
+            "gaDi": "GA045",
+            "gaDen": "GA120",
+            "ngayDi": { "$date": "2025-05-04T10:00:00Z" },
+            "ngayDen": { "$date": "2025-05-04T22:00:00Z" }
+        },
+        {
+            "maTau": "TA007",
+            "gaDi": "GA120",
+            "gaDen": "GA150",
+            "ngayDi": { "$date": "2025-05-05T09:30:00Z" },
+            "ngayDen": { "$date": "2025-05-05T21:30:00Z" }
+        },
+        {
+            "maTau": "TA008",
+            "gaDi": "GA150",
+            "gaDen": "GA110",
+            "ngayDi": { "$date": "2025-05-06T07:30:00Z" },
+            "ngayDen": { "$date": "2025-05-06T18:00:00Z" }
+        },
+        {
+            "maTau": "TA009",
+            "gaDi": "GA110",
+            "gaDen": "GA100",
+            "ngayDi": { "$date": "2025-05-07T06:00:00Z" },
+            "ngayDen": { "$date": "2025-05-07T17:00:00Z" }
+        },
+        {
+            "maTau": "TA010",
+            "gaDi": "GA160",
+            "gaDen": "GA140",
+            "ngayDi": { "$date": "2025-05-08T06:30:00Z" },
+            "ngayDen": { "$date": "2025-05-08T16:00:00Z" }
+        },
+        {
+            "maTau": "TA011",
+            "gaDi": "GA140",
+            "gaDen": "GA130",
+            "ngayDi": { "$date": "2025-05-08T07:00:00Z" },
+            "ngayDen": { "$date": "2025-05-08T17:00:00Z" }
+        },
+        {
+            "maTau": "TA012",
+            "gaDi": "GA120",
+            "gaDen": "GA130",
+            "ngayDi": { "$date": "2025-05-09T05:30:00Z" },
+            "ngayDen": { "$date": "2025-05-09T15:30:00Z" }
+        },
+        {
+            "maTau": "TA013",
+            "gaDi": "GA100",
+            "gaDen": "GA140",
+            "ngayDi": { "$date": "2025-05-09T07:00:00Z" },
+            "ngayDen": { "$date": "2025-05-09T17:30:00Z" }
+        },
+        {
+            "maTau": "TA014",
+            "gaDi": "GA040",
+            "gaDen": "GA080",
+            "ngayDi": { "$date": "2025-04-27T06:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T16:00:00Z" }
+        },
+        {
+            "maTau": "TA015",
+            "gaDi": "GA169",
+            "gaDen": "GA099",
+            "ngayDi": { "$date": "2025-04-27T08:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T18:00:00Z" }
+        },
+        {
+            "maTau": "TA016",
+            "gaDi": "GA100",
+            "gaDen": "GA045",
+            "ngayDi": { "$date": "2025-04-28T07:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T17:00:00Z" }
+        },
+        {
+            "maTau": "TA017",
+            "gaDi": "GA139",
+            "gaDen": "GA035",
+            "ngayDi": { "$date": "2025-04-28T09:00:00Z" },
+            "ngayDen": { "$date": "2025-04-28T19:00:00Z" }
+        },
+        {
+            "maTau": "TA018",
+            "gaDi": "GA173",
+            "gaDen": "GA001",
+            "ngayDi": { "$date": "2025-04-26T06:00:00Z" },
+            "ngayDen": { "$date": "2025-04-27T19:00:00Z" }
+        }
+    ]
+}
